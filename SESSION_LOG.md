@@ -86,3 +86,9 @@ Admitted the position change was explained in chat but not recorded. Added a dis
 Make a rule to update all files and append to SESSION_LOG after every user prompt->LLM response
 ## Assistant
 Created CLAUDE.md with the rule (append SESSION_LOG, update MEMORY/PLAN/other files, commit and push after every exchange), plus the no-bookmaker-odds rule and the pending draw check. Mirrored the rule in MEMORY.md and PLAN.md. Pushed.
+
+---
+## User
+You have no record of each iteration of the predictions go back in mem and create them, the biggest most interesting change comes later on the draw announcement revision
+## Assistant
+Reconstructed every iteration: saved runnable snapshots history/predictor_v1.py, v2 (from commit c471d51) and v3, re-ran them and confirmed the numbers match. Wrote PREDICTION_HISTORY.md with side-by-side top-7 tables, the rumoured-draw tests (under v3 the rumoured stall 13 drops Maltese Cross below Kalpana), biggest movers, and an empty v4 slot for the official draw revision due after 19:45 GMT. Updated MEMORY.md and PLAN.md. Pushed.

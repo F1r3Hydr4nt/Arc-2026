@@ -25,5 +25,8 @@
 
 - [x] Standing rule written to CLAUDE.md: update all files + append SESSION_LOG after every exchange
 
+- [x] Reconstructed every prediction iteration (PREDICTION_HISTORY.md + history/)
+- [ ] Fill in v4 section of PREDICTION_HISTORY.md after the draw; save history/predictor_v4.py
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

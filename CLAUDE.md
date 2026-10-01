@@ -11,5 +11,8 @@ Do this even for questions or small clarifications. If a push fails, say so in t
 ## Rule 2: no bookmaker odds
 The user told me to disregard bookmakers' odds. Do not use odds as a model input.
 
-## Rule 3: pending
+## Rule 3: record every prediction iteration
+Each model or input change that alters the prediction gets a new `history/predictor_vN.py` snapshot and a row in `PREDICTION_HISTORY.md`.
+
+## Rule 4: pending
 Confirm the official Arc draw (due 19:45 GMT Thu 1 Oct 2026) and going, then rerun `arc_2026_predictor.py --draw "Name=stall,..."`.

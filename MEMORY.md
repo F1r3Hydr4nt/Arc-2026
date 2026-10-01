@@ -85,3 +85,6 @@ Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13), fast ground: Dar
 ## Standing rules (also in CLAUDE.md)
 - After every user prompt -> assistant response: append to SESSION_LOG.md, update MEMORY.md, PLAN.md and any affected files, commit and push to this repo.
 - Never use bookmaker odds as model input.
+
+## Prediction history
+Full record of every iteration (v1, v2, v3, rumoured-draw tests, and a v4 draw-revision slot) is in PREDICTION_HISTORY.md; runnable snapshots in history/predictor_v1.py, v2, v3. All three were re-run and reproduce the original numbers. v4 (official draw) is the revision expected to matter most and is still pending.
