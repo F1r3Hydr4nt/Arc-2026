@@ -32,7 +32,8 @@
 - [ ] Replace Paddy Power prices with Betfair back prices when market reopens
 - [x] Full audit of all 16 runners (AUDIT.md); v6 and v7 built
 - [x] Found Arrow Eagle / Chestnut Rocket / Bright Light 2026 form; jockeys added (v8, v9)
-- [ ] Confirm Ballydoyle jockeys (Minnie Hauk, Cellini, Diamond Necklace) once announced and update JOCKEY scores
+- [x] v10: unknown jockeys neutral, --no-jockey switch
+- [ ] Confirm ALL jockeys from the final declarations, then set the Ballydoyle trio's JOCKEY scores (replace None) and rerun
 - [ ] Find more Arrow Eagle 2026 runs
 - [x] Diamond Necklace's Oaks = Prix de Diane (French Oaks)
 - [ ] Re-check going: weather evidence conflicting; use official France Galop update Fri/Sat

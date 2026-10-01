@@ -37,3 +37,5 @@ Kalpana (5yo mare; King George on good-to-firm, Yorkshire Oaks on soft), Maltese
 - Chestnut Rocket 2026: Listed winner (Prix Hubert Baguenault de Puchesse), 2nd in the Grand Prix de Deauville G2 (30 Aug) to Al Aasy, ridden by Grandin.
 - Bright Light 2026: 2nd Grosser Preis von Berlin G1 (Hoppegarten, 9 Aug, 2400m, beaten a neck by Tiffany), 3rd Grosser Preis von Baden G1 behind Saddadd. Confirmed.
 - Jockeys (search summaries): Daryz Barzalona; Maltese Cross Marquand; Kalpana Keane; Thundering On Boudot; Friendly Soul Doyle; Bay City Roller Murphy; Varandir Lecoeuvre; Saddadd R Dawson; Meisho Tabaru Take; Admire Terra Demuro; Bright Light Marie; Arrow Eagle Mendizabal; Chestnut Rocket Grandin. NOT YET ANNOUNCED: Minnie Hauk, Benvenuto Cellini, Diamond Necklace (Ryan Moore to choose among Ballydoyle trio; deadline 21:30 GMT). Saddadd's Baden win was ridden by a different jockey per one summary.
+
+- Correction (user): the Ballydoyle trio's jockeys are unknown, so v9's provisional 8 was an assumption. v10 uses the average of the known jockeys for them. All jockey bookings are provisional until final declarations.

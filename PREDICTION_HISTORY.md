@@ -87,3 +87,15 @@ Effect of the audit: the top of the order held (Daryz, Kalpana/Thundering On, th
 | 6 | Friendly Soul 7.64 | Friendly Soul 7.72 | Varandir 6.54 | Varandir 6.51 | Maltese Cross 7.80 | Friendly Soul 6.68 |
 | 7 | Diamond Necklace 7.57 | Diamond Necklace 7.61 | Diamond Necklace 6.46 | Diamond Necklace 6.49 | Minnie Hauk 7.56 | Varandir 6.51 |
 Effect of jockeys: small. Thundering On (Boudot, an Arc winner) edges ahead of Kalpana (Keane) in both new versions; otherwise the order is unchanged. Jockey scores are judgement-based, and three Ballydoyle rides are unconfirmed.
+
+## v10: unknown jockeys neutral (user correction: jockeys not yet known)
+| Pos | v9 fast | v10 fast | v10 fast, no jockey | v10 soft |
+|---|---|---|---|---|
+| 1 | Daryz 9.73 | Daryz 9.73 | Daryz 9.65 | Daryz 9.73 |
+| 2 | Thundering On 7.98 | Thundering On 7.98 | Kalpana 7.95 | Thundering On 7.98 |
+| 3 | Kalpana 7.95 | Kalpana 7.95 | Thundering On 7.90 | Kalpana 7.73 |
+| 4 | Maltese Cross 7.46 | Maltese Cross 7.46 | Maltese Cross 7.37 | Benvenuto Cellini 7.18 |
+| 5 | Benvenuto Cellini 7.26 | Benvenuto Cellini 7.18 | Benvenuto Cellini 7.18 | Maltese Cross 7.13 |
+| 6 | Varandir 6.51 | Varandir 6.51 | Varandir 6.61 | Friendly Soul 6.68 |
+| 7 | Diamond Necklace 6.49 | Friendly Soul 6.46 | Diamond Necklace 6.41 | Varandir 6.51 |
+Effect: removing the assumed 8s for the Ballydoyle trio costs Diamond Necklace and Cellini a little; Friendly Soul edges back into the top 7 on fast ground. Thundering On vs Kalpana is a 0.05 coin-flip once jockeys are removed.

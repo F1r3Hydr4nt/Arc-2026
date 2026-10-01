@@ -146,3 +146,9 @@ Agreed. Re-searched all 16 runners individually (16 searches). Found and fixed: 
 Add jockeys into the model and then go try find the form for those missing horses are they Japanese by any chance? I think it was this year's oaks surely you can check
 ## Assistant
 Searched jockeys, Diamond Necklace's Oaks, and the three thin horses. None of the three is Japanese. Diamond Necklace won the Prix de Diane (French Oaks); the Epsom Oaks was Thundering On. Found Arrow Eagle 4th Ganay, Chestnut Rocket Listed + 2nd Grand Prix de Deauville, Bright Light 2nd Berlin G1 / 3rd Baden G1. Added JOCKEY scores (Ballydoyle trio unannounced, provisional 8). Built v8 (no odds) and v9 (with odds, root script). v9 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace. Pushed.
+
+---
+## User
+Wait we don't know the jockeys yet
+## Assistant
+Agreed: the three Ballydoyle rides were unannounced and my provisional 8s were an assumption. Built v10: unknown jockeys score the known-jockey average (7.08), a --no-jockey switch, and noted that even known bookings are provisional. v10 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Friendly Soul. Without any jockey factor Kalpana edges Thundering On by 0.05. Pushed.

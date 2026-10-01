@@ -133,3 +133,7 @@ Lesson: error came from not researching low-profile runners and from generic ass
 - Missing form found: Arrow Eagle 4th Prix Ganay 2026 (only 2026 run found); Chestnut Rocket Listed win + 2nd Grand Prix de Deauville G2; Bright Light 2nd Gr Preis von Berlin G1, 3rd Baden G1.
 - Jockeys added to the model (JOCKEY dict). Ballydoyle trio rides unannounced at time of writing: provisional 8 each.
 - v8 (jockeys, no odds) fast top 7: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Diamond Necklace. v9 (jockeys + odds; root script) fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace.
+
+## v10 (user: 'we don't know the jockeys yet')
+Unknown Ballydoyle rides (Minnie Hauk, Benvenuto Cellini, Diamond Necklace) now score the average of known jockeys (7.08) instead of an assumed 8; `--no-jockey` switch added; all jockey bookings regarded as provisional (deadline extended past the draw). v10 (root script) fast top 7: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Friendly Soul. Soft: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Friendly Soul, Varandir. With no jockey factor, Kalpana (7.95) edges Thundering On (7.90).
+Lesson: do not insert assumed values as inputs; use neutral values and flag them.
