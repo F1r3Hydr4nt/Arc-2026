@@ -75,3 +75,9 @@ Next: Varandir 6.93, Bay City Roller 6.86 (fast) / Diamond Necklace 6.97 (soft 8
 What changed vs v2: Diamond Necklace falls from 4th to 7th/8th (her 12f ability is unproven, and market had been propping her up); Friendly Soul and Minnie Hauk rise. Maltese Cross and Kalpana swap on soft ground. Cellini/Minnie Hauk tie on score; Cellini placed ahead on form tie-break.
 Caveat: the 0-10 form/distance/ground/connection scores are my own judgements from search summaries, some of which quote market views, so independence from odds is not total.
 Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13), fast ground: Daryz, Kalpana, Maltese Cross, Cellini, Minnie Hauk, Friendly Soul, Diamond Necklace.
+
+## Discrepancy log: Minnie Hauk's position
+- v1 (saved in PREDICTION_v1.md): 7th (5.36), behind Friendly Soul (4th), Diamond Necklace (5th), Benvenuto Cellini (6th).
+- v2: 6th (5.36 unchanged). She only moved up because Friendly Soul fell (guessed odds 13/1 -> ~25/1, and 5yo+ penalty applied), not because of any change to Minnie Hauk's own inputs.
+- v3 (odds removed): 5th (7.46), level with Benvenuto Cellini, who is placed ahead on the form tie-break.
+- Flagged by the user as a discrepancy that I had not recorded; recorded here. OPEN: user may mean a different discrepancy (e.g. in her form or ground data); to be clarified.

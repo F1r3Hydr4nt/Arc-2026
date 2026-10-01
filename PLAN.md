@@ -21,5 +21,7 @@
 - [x] v3: bookmaker odds removed, weights rescaled
 - [ ] Replace judgement scores with sourced figures (RPRs/Timeform, trainer G1 strike rates) once a racecard is available
 
+- [ ] Clarify with user which Minnie Hauk discrepancy they mean (position change logged in MEMORY.md)
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.
