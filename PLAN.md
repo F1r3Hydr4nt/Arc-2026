@@ -40,5 +40,7 @@
 
 - [ ] 2 Oct 15:00 UTC (4pm UK): scheduled jockey-declaration check (trig_015cMdMaq1scoKkVRyEodTvj) builds v11
 
+- [ ] 1 Oct 21:30 UTC: Betfair price re-check (trig_01AndsB93dHaoRXSd8J9wr3b); Betfair URL is blocked, needs user screenshot
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

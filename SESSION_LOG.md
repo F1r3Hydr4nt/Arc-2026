@@ -158,3 +158,15 @@ Agreed: the three Ballydoyle rides were unannounced and my provisional 8s were a
 Make a cron job to check for jockey declarations tomorrow at 4pm
 ## Assistant
 Created one-shot routine trig_015cMdMaq1scoKkVRyEodTvj for Fri 2 Oct 2026 15:00 UTC (4pm UK, BST assumed). It will search for final jockeys, build v11 with confirmed riders, rerun with the draw, push and report. Logged and pushed.
+
+---
+## User
+Check Betfair prices again later tonight, also notify when the jockey check comes in
+## Assistant
+Scheduled a Betfair re-check for 21:30 UTC tonight (22:30 UK) and added a PushNotification step to the 2 Oct 15:00 UTC jockey routine. Caveat: Betfair is blocked from this environment, so the re-check may need a user screenshot.
+
+---
+## User
+[Betfair market URL: .../parislongchamp-4th-oct-betting-35193074]
+## Assistant
+Tried to fetch it: blocked by the egress proxy (betfair.com), so no prices read. Logged the URL; still need a pasted screenshot or text for Betfair prices.

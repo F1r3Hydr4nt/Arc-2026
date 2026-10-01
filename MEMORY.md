@@ -140,3 +140,8 @@ Lesson: do not insert assumed values as inputs; use neutral values and flag them
 
 ## Scheduled check: jockey declarations
 One-shot routine trig_015cMdMaq1scoKkVRyEodTvj fires 2026-10-02 15:00 UTC (= 4pm UK time, BST assumed from the user's phone clock) into this session: find final jockeys, build versions/v11, rerun, push, report. It is a one-off run, not a repeating cron. If the declarations are not out by then, rerun later (Saturday). Cancel with delete_trigger.
+
+## Notifications and Betfair (user requests, 1 Oct ~19:46 UTC)
+- Jockey routine trig_015cMdMaq1scoKkVRyEodTvj (2 Oct 15:00 UTC) now also sends a PushNotification when it finishes (one line: Ballydoyle jockeys confirmed or not, new top 3). Notification only reaches the user if the session is alive and notifications are enabled/connected.
+- Betfair re-check scheduled via send_later trig_01AndsB93dHaoRXSd8J9wr3b for 21:30 UTC tonight (22:30 UK).
+- User supplied Betfair market URL: https://www.betfair.com/exchange/plus/en/horse-racing/parislongchamp-4th-oct-betting-35193074 . WebFetch of it is BLOCKED (egress proxy), same as all betfair.com. The page also likely needs JavaScript. Only route to Betfair prices: user pastes a screenshot/text, or runs the Betfair API locally.
