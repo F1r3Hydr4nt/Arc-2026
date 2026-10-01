@@ -98,3 +98,9 @@ Reconstructed every iteration: saved runnable snapshots history/predictor_v1.py,
 Yeah and create the files in the repo under different versions
 ## Assistant
 Created versions/v1, v2, v3 folders, each with its own predictor.py and PREDICTION.md (what changed, captured output, rumoured-draw test for v2/v3), plus a versions/v4 placeholder for the official-draw revision. Moved the earlier history/ snapshots into them, fixed references in PREDICTION_HISTORY, MEMORY, PLAN, CLAUDE and README. Pushed.
+
+---
+## User
+Check the most reliable weather forecast for Sunday just for shits and giggles
+## Assistant
+Official/primary weather sources were blocked, so used search summaries. Racing Post (1 Oct 2026): 7.5mm rain Wed-Thu, penetrometer 3.7 (good to soft), dry forecast into next week so ground no slower than good, maybe good to firm. Generic Paris sites: dry, 11-21C, ~5% rain (low reliability). Conclusion: fast/good scenario more likely than soft. No model change. Logged in MEMORY.md and PLAN.md.

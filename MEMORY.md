@@ -89,3 +89,10 @@ Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13), fast ground: Dar
 ## Prediction history
 Full record of every iteration (v1, v2, v3, rumoured-draw tests, and a v4 draw-revision slot) is in PREDICTION_HISTORY.md; runnable snapshots in versions/v1/predictor.py, v2, v3. All three were re-run and reproduce the original numbers. v4 (official draw) is the revision expected to matter most and is still pending.
 - 2026-10-01: Per-version folders created: versions/v1, v2, v3 (each predictor.py + PREDICTION.md with notes and captured output), versions/v4 placeholder (draw revision, pending). Replaces the earlier history/ folder.
+
+## Weather/going check (2026-10-01 ~14:15 UTC, user asked for the most reliable forecast)
+- Could not fetch Météo-France, yr.no, Open-Meteo or France Galop (blocked); search summaries only.
+- Best-sourced item (Racing Post via search, dated 1 Oct 2026): ~4mm Wed + 3.5mm overnight; penetrometer 3.7 ("souple", no worse than good to soft on GoingStick); dry weather forecast well into next week, so Arc on ground no slower than good, perhaps good to firm. Earlier in the week: no rain since 8 Sep, going good to soft 3.3 on 25 Sep, watered to good (3.2).
+- Generic Paris forecast sites: Sun 4 Oct partly cloudy, ~11-21C, ~0mm, ~5% rain (long-range, low reliability).
+- Some Racing Post headlines in results ("very soft", "testing ground after Saturday rain") look like other years; ignored.
+- Reading: dry Sunday, going likely good, possibly good to firm. The FAST scenario is now the more likely one; soft is the minority case. v3 fast: Daryz, Maltese Cross, Kalpana, Benvenuto Cellini, Minnie Hauk, Friendly Soul, Diamond Necklace. No model change made.
