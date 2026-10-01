@@ -63,3 +63,15 @@ Top 7 with the official draw:
 | 7 | Minnie Hauk 7.26 | Varandir 7.43 | Friendly Soul 6.51 | Varandir 7.43 | Friendly Soul 6.51 |
 
 Biggest change of this round: a data error, not the market. Thundering On had been mis-specified (colt, form 5.0, never researched); corrected she jumps into the top 3. The market then pushes Maltese Cross up (stall 11 matters less when priced 5/1) and Friendly Soul/Minnie Hauk down (20/1).
+
+## v6 and v7: full input audit (20:3x UTC, 1 Oct 2026). Detail in AUDIT.md
+| Pos | v5 fast | v6 fast (audited, no odds) | v7 fast (audited + odds) | v6 soft | v7 soft |
+|---|---|---|---|---|---|
+| 1 | Daryz 9.58 | Daryz 9.65 | Daryz 9.76 | Daryz 9.65 | Daryz 9.76 |
+| 2 | Kalpana 8.02 | Kalpana 8.86 | Kalpana 8.02 | Thundering On 8.85 | Thundering On 7.89 |
+| 3 | Thundering On 7.71 | Thundering On 8.85 | Thundering On 7.89 | Kalpana 8.56 | Kalpana 7.78 |
+| 4 | Maltese Cross 7.42 | Benvenuto Cellini 8.26 | Maltese Cross 7.42 | Benvenuto Cellini 8.26 | Benvenuto Cellini 7.19 |
+| 5 | Benvenuto Cellini 7.19 | Maltese Cross 8.18 | Benvenuto Cellini 7.19 | Friendly Soul 7.94 | Maltese Cross 7.06 |
+| 6 | Varandir 6.54 | Friendly Soul 7.64 | Varandir 6.54 | Maltese Cross 7.73 | Friendly Soul 6.63 |
+| 7 | Friendly Soul 6.51 | Diamond Necklace 7.57 | Diamond Necklace 6.46 | Minnie Hauk 7.49 | Varandir 6.54 |
+Effect of the audit: the top of the order held (Daryz, Kalpana/Thundering On, then Cellini/Maltese Cross); the bottom of the top 7 moved. Diamond Necklace re-enters the top 7 on fast ground despite stall 16; Friendly Soul's soft/fast split widened; Varandir slips out of the top 7 without the market.

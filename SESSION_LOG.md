@@ -134,3 +134,9 @@ Double-check found conflicting forecasts (one summary: rain Fri evening and Sat 
 [Two screenshots: Betfair Exchange Arc market (suspended, no prices) and Paddy Power Final Decs prices, 20:04-20:05, 1 Oct 2026]
 ## Assistant
 Betfair showed no prices (suspended); used Paddy Power. Noticed Thundering On at 8/1 contradicted my model (guessed 4yo colt, form 5.0): research showed she is a filly, reportedly an Oaks and G2 Blandford winner (unverified). Built v4b (correction only) and v5 (v4b + 20% market weight, margin cancelled by scaling to favourite). v5 fast: Daryz, Kalpana, Thundering On, Maltese Cross, Benvenuto Cellini, Varandir, Friendly Soul. Saved versions/v4b and v5, updated history, memory, plan. Pushed.
+
+---
+## User
+If you made such an elemental error maybe you need to recheck all entries
+## Assistant
+Agreed. Re-searched all 16 runners individually (16 searches). Found and fixed: Diamond Necklace's form badly understated (unbeaten in six before her first defeat, four G1s); Admire Terra's G1/G2 error; Bright Light is 3yo; Arrow Eagle is 5yo; Meisho Tabaru won on yielding ground; Friendly Soul dislikes firm ground; Daryz's 2026 G1s; Thundering On confirmed Oaks winner. Wrote AUDIT.md, built v6 (no odds) and v7 (with market), made v7 the root script. v6 fast: Daryz, Kalpana, Thundering On, Cellini, Maltese Cross, Friendly Soul, Diamond Necklace. v7 fast: Daryz, Kalpana, Thundering On, Maltese Cross, Cellini, Varandir, Diamond Necklace. Pushed.

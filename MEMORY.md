@@ -119,3 +119,10 @@ Scheduled 19:55 UTC draw-check reminder deleted (no longer needed).
 - v4b (no odds), top 7 fast: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir. Soft: Daryz, Thundering On, Kalpana, Cellini, Friendly Soul, Maltese Cross, Varandir.
 - v5 (v4b + 20% market), top 7 fast: Daryz, Kalpana, Thundering On, Maltese Cross, Benvenuto Cellini, Varandir, Friendly Soul. Soft: Daryz, Kalpana, Thundering On, Cellini, Maltese Cross, Varandir, Friendly Soul.
 - Top 3 identical in v4b/v5 apart from order of Kalpana vs Thundering On on soft in v4b.
+
+## INPUT AUDIT (user: 'if you made such an elemental error maybe you need to recheck all entries')
+Re-searched all 16 runners; full table of corrections + sources in AUDIT.md. Earlier facts in this file that were WRONG and are superseded: Thundering On colt/4yo/unresearched; Admire Terra 'Gr1 Hanshin Daishoten / 3rd Osaka Hai' (actually G2 Daishoten; 3rd Tenno Sho Spring G1); Bright Light age 4 (is 3); Arrow Eagle age 4 (is 5); Diamond Necklace form understated (unbeaten in 6, four G1s before Romanet); Meisho Tabaru soft-ground assumption (won Takarazuka on yielding); Friendly Soul ground (dislikes firm).
+New models: v6 (audited, no odds) and v7 (audited + 20% Paddy Power prices; now the root arc_2026_predictor.py).
+v6 fast top 7: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Maltese Cross, Friendly Soul, Diamond Necklace. v6 soft: Daryz, Thundering On, Kalpana, Cellini, Friendly Soul, Maltese Cross, Minnie Hauk.
+v7 fast top 7: Daryz, Kalpana, Thundering On, Maltese Cross, Cellini, Varandir, Diamond Necklace. v7 soft: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Friendly Soul, Varandir.
+Lesson: error came from not researching low-profile runners and from generic assumptions (e.g. 'Japanese horses hate soft'); fixed by searching each runner individually.
