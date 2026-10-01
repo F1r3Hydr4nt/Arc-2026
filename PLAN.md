@@ -6,7 +6,7 @@
 - [x] v1 prediction produced; move work and memory to this repo
 
 ## Next
-- [x] Delete old repo contents (branch removed; repo shell needs manual deletion)
+- [ ] Delete old repo (NOT done: branch delete refused; user to delete repo in GitHub settings)
 - [ ] Confirm official draw (stalls) and add a draw rule (stall <= 8 bonus)
 - [ ] Confirm going on the day; add per-horse going rule
 - [ ] Replace estimated odds/trainers with real data (needs racecard text; Racing Post is blocked from this environment)
