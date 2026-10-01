@@ -31,3 +31,6 @@ Places 4–8 are within ~0.5 points: a coin-flip cluster.
 ## Repos
 - Original work: F1r3Hydr4nt/daily-sports, branch claude/jolly-hawking-cyrmx5 (file arc_2026_predictor.py).
 - This repo: F1r3Hydr4nt/Arc-2026 (was empty; initialised with this commit).
+
+## Log
+- Old repo F1r3Hydr4nt/daily-sports held only my branch claude/jolly-hawking-cyrmx5 (one file, already copied here). User asked to delete the old repo. Branch deleted; the empty repo itself cannot be deleted with available tools, so the user must delete it in GitHub settings if wanted.
