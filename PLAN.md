@@ -28,5 +28,8 @@
 - [x] Reconstructed every prediction iteration (PREDICTION_HISTORY.md + versions/v1..v3)
 - [x] Filled in v4 section of PREDICTION_HISTORY.md; fill versions/v4/PREDICTION.md and save versions/v4/predictor.py
 
+- [ ] v5: add Betfair exchange-implied probability (needs user-pasted post-draw prices); save versions/v5 and compare with v4
+- [ ] Re-check going: weather evidence conflicting; use official France Galop update Fri/Sat
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

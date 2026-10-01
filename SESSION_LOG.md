@@ -122,3 +122,9 @@ Parsed the 16 stalls, ran the model with the draw (stall rule: 1-3 +0.8, 4-8 +0.
 Output the new predictions
 ## Assistant
 Re-presented the v4 predictions (draw applied). No model or input change. Fast: Daryz, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir, Minnie Hauk. Soft: Daryz, Kalpana, Benvenuto Cellini, Friendly Soul, Maltese Cross, Varandir, Minnie Hauk.
+
+---
+## User
+Ok since there is no rain forecast (double check this) there won't be much to change, however we could factor bookmaker odds into a v5? Could we get them from Betfair?
+## Assistant
+Double-check found conflicting forecasts (one summary: rain Fri evening and Sat morning, good-to-soft to soft; earlier: dry), so my "no rain" claim was too confident; both scenarios stay live. Betfair is blocked here and the API needs the user's credentials; search summaries gave conflicting pre-draw prices. Proposed v5 design (exchange-implied probability at ~20% weight, v4 kept odds-free) pending user-pasted post-draw prices. Logged and pushed.

@@ -107,3 +107,8 @@ Full record of every iteration (v1, v2, v3, rumoured-draw tests, and a v4 draw-r
 All earlier "draws" from search summaries were wrong (superseded).
 v4 top 7 (fast, the favoured going): Daryz, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir, Minnie Hauk. Soft: Daryz, Kalpana, Cellini, Friendly Soul, Maltese Cross, Varandir, Minnie Hauk. Files: versions/v4/.
 Scheduled 19:55 UTC draw-check reminder deleted (no longer needed).
+
+## Weather re-check and Betfair odds attempt (user: double-check no rain; could v5 use Betfair odds?)
+- Weather re-check is INCONCLUSIVE, and my earlier "dry Sunday, fast likely" was too confident. A Racing Post summary says rain Friday evening (~5mm) and Saturday morning (3-5mm), wind 25-30kph, estimates good-to-soft to soft; the earlier summary said 7.5mm Wed/Thu then dry into next week. Articles are undated in the summaries and some may be from the 2025 Arc (which ran very soft). Official sources (France Galop, Météo-France, yr.no) are blocked. Treat BOTH fast and soft scenarios as live until the official Friday/Saturday going update.
+- Betfair: betfair.com is blocked from this environment; Exchange API would need the user's account, app key and session token and a reachable network. Search summaries quote conflicting "Betfair" prices (Daryz 7/2 vs 7/4; Maltese Cross 9/1 vs 9/2), all pre-draw. None usable.
+- Proposed v5 (not built yet): add exchange-implied probability (overround removed, post-draw) as a modest weight (~20%) alongside v4 factors; keep v4 odds-free for comparison. Needs user-pasted Betfair prices after the draw.
