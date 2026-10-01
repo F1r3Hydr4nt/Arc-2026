@@ -152,3 +152,9 @@ Searched jockeys, Diamond Necklace's Oaks, and the three thin horses. None of th
 Wait we don't know the jockeys yet
 ## Assistant
 Agreed: the three Ballydoyle rides were unannounced and my provisional 8s were an assumption. Built v10: unknown jockeys score the known-jockey average (7.08), a --no-jockey switch, and noted that even known bookings are provisional. v10 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Friendly Soul. Without any jockey factor Kalpana edges Thundering On by 0.05. Pushed.
+
+---
+## User
+Make a cron job to check for jockey declarations tomorrow at 4pm
+## Assistant
+Created one-shot routine trig_015cMdMaq1scoKkVRyEodTvj for Fri 2 Oct 2026 15:00 UTC (4pm UK, BST assumed). It will search for final jockeys, build v11 with confirmed riders, rerun with the draw, push and report. Logged and pushed.

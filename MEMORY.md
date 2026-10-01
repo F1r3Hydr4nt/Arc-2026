@@ -137,3 +137,6 @@ Lesson: error came from not researching low-profile runners and from generic ass
 ## v10 (user: 'we don't know the jockeys yet')
 Unknown Ballydoyle rides (Minnie Hauk, Benvenuto Cellini, Diamond Necklace) now score the average of known jockeys (7.08) instead of an assumed 8; `--no-jockey` switch added; all jockey bookings regarded as provisional (deadline extended past the draw). v10 (root script) fast top 7: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Friendly Soul. Soft: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Friendly Soul, Varandir. With no jockey factor, Kalpana (7.95) edges Thundering On (7.90).
 Lesson: do not insert assumed values as inputs; use neutral values and flag them.
+
+## Scheduled check: jockey declarations
+One-shot routine trig_015cMdMaq1scoKkVRyEodTvj fires 2026-10-02 15:00 UTC (= 4pm UK time, BST assumed from the user's phone clock) into this session: find final jockeys, build versions/v11, rerun, push, report. It is a one-off run, not a repeating cron. If the declarations are not out by then, rerun later (Saturday). Cancel with delete_trigger.

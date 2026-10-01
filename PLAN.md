@@ -38,5 +38,7 @@
 - [x] Diamond Necklace's Oaks = Prix de Diane (French Oaks)
 - [ ] Re-check going: weather evidence conflicting; use official France Galop update Fri/Sat
 
+- [ ] 2 Oct 15:00 UTC (4pm UK): scheduled jockey-declaration check (trig_015cMdMaq1scoKkVRyEodTvj) builds v11
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.
