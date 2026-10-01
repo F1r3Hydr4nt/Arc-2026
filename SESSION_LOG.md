@@ -104,3 +104,9 @@ Created versions/v1, v2, v3 folders, each with its own predictor.py and PREDICTI
 Check the most reliable weather forecast for Sunday just for shits and giggles
 ## Assistant
 Official/primary weather sources were blocked, so used search summaries. Racing Post (1 Oct 2026): 7.5mm rain Wed-Thu, penetrometer 3.7 (good to soft), dry forecast into next week so ground no slower than good, maybe good to firm. Generic Paris sites: dry, 11-21C, ~5% rain (low reliability). Conclusion: fast/good scenario more likely than soft. No model change. Logged in MEMORY.md and PLAN.md.
+
+---
+## User
+Read the draw from here if you can and output a table [Racing Post draw live-blog URL]
+## Assistant
+Racing Post blocked. Search summaries gave three conflicting draws (Daryz 1/5/1, Kalpana 9/6/9, Maltese Cross 13/11/14), one of which was just the declared-runner order numbered 1-16. The draw was not due until 19:45 GMT, so declined to present any as real; no table produced; nothing applied to the model. Asked the user to paste the table.

@@ -96,3 +96,8 @@ Full record of every iteration (v1, v2, v3, rumoured-draw tests, and a v4 draw-r
 - Generic Paris forecast sites: Sun 4 Oct partly cloudy, ~11-21C, ~0mm, ~5% rain (long-range, low reliability).
 - Some Racing Post headlines in results ("very soft", "testing ground after Saturday rain") look like other years; ignored.
 - Reading: dry Sunday, going likely good, possibly good to firm. The FAST scenario is now the more likely one; soft is the minority case. v3 fast: Daryz, Maltese Cross, Kalpana, Benvenuto Cellini, Minnie Hauk, Friendly Soul, Diamond Necklace. No model change made.
+
+## Draw read attempt (user gave Racing Post live-blog URL)
+- Racing Post page is blocked from this environment (cannot read it). The page title says stalls are "to be revealed" and the draw is due 19:45 GMT Thu 1 Oct; at the time of the attempt it was still before 19:45 UTC.
+- Search summary returned two mutually contradictory "draws": (a) Daryz 5, Kalpana 6, Maltese Cross 11; (b) a 1-16 list that is simply the declared-runner order (Daryz 1, Saddadd 2, ... Diamond Necklace 16), which matches the runner list order from the confirmed-runners article, not a real draw. An earlier summary gave Daryz 1, Kalpana 9, Maltese Cross 13. Three conflicting versions = NONE verified. Not applied to the model.
+- Action: wait for the real draw (scheduled check 19:55 UTC) or for the user to paste the table.
