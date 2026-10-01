@@ -16,5 +16,7 @@
 - [ ] Sensitivity test: vary weights, report how stable places 4–7 are
 - [ ] After the race, record result in MEMORY.md and score the model
 
+- [x] Saved first prediction (PREDICTION_v1.md) and session log (SESSION_LOG.md)
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

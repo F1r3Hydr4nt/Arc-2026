@@ -55,3 +55,5 @@ Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13) only widens Daryz
 
 ### Still unverified
 Official stalls, official going, odds for Varandir/Saddadd/Japanese/outsiders (estimates), jockeys for Minnie Hauk/Benvenuto Cellini/Diamond Necklace.
+
+- 2026-10-01: Saved PREDICTION_v1.md (original first prediction), predictor_v1_original.py and SESSION_LOG.md (condensed session copy).
