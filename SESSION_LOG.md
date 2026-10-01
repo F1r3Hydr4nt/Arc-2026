@@ -116,3 +116,9 @@ Racing Post blocked. Search summaries gave three conflicting draws (Daryz 1/5/1,
 Benvenuto Cellini is in stall one. And there's your draw! [pasted live-blog entries 1-16 from 19:45-19:48, 1 Oct 2026]
 ## Assistant
 Parsed the 16 stalls, ran the model with the draw (stall rule: 1-3 +0.8, 4-8 +0.5, 9-12 -0.2, 13+ -0.7), created versions/v4 (predictor.py + PREDICTION.md), filled the v4 section of PREDICTION_HISTORY.md, updated MEMORY/PLAN/CLAUDE, deleted the now-unneeded 19:55 reminder. v4 fast: Daryz, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir, Minnie Hauk. Maltese Cross fell from 2nd to 4th (stall 11); Diamond Necklace (stall 16) dropped out.
+
+---
+## User
+Output the new predictions
+## Assistant
+Re-presented the v4 predictions (draw applied). No model or input change. Fast: Daryz, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir, Minnie Hauk. Soft: Daryz, Kalpana, Benvenuto Cellini, Friendly Soul, Maltese Cross, Varandir, Minnie Hauk.
