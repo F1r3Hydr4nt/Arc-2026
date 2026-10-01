@@ -7,8 +7,10 @@
 
 ## Next
 - [ ] Delete old repo (NOT done: branch delete refused; user to delete repo in GitHub settings)
-- [ ] Confirm official draw (stalls) and add a draw rule (stall <= 8 bonus)
-- [ ] Confirm going on the day; add per-horse going rule
+- [x] Draw rule added (stall<=3 +0.8, <=8 +0.5, 9-12 -0.2, 13+ -0.7); use `--draw "Name=stall,..."`
+- [ ] AT 19:45 GMT THU 1 OCT: confirm official draw and run with `--draw`; push result
+- [x] Per-horse going scores added (`--going fast|soft`)
+- [ ] Confirm official going on Sunday morning and re-run
 - [ ] Replace estimated odds/trainers with real data (needs racecard text; Racing Post is blocked from this environment)
 - [ ] Add jockey and trainer Group 1 strike-rate rules
 - [ ] Sensitivity test: vary weights, report how stable places 4–7 are

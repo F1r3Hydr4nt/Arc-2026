@@ -34,3 +34,24 @@ Places 4–8 are within ~0.5 points: a coin-flip cluster.
 
 ## Log
 - Old repo F1r3Hydr4nt/daily-sports held only my branch claude/jolly-hawking-cyrmx5 (one file, already copied here). User asked to delete the old repo. Branch deletion via git push was refused (remote hung up), so the branch still exists; the repo itself cannot be deleted with available tools. User must delete the repo in GitHub settings (Settings > Danger Zone).
+
+## Update 2026-10-01 13:56 UTC — model v2 (draw confirmation due 19:45 GMT Thu 1 Oct)
+Corrections to earlier inputs: Kalpana is a 5yo mare (only nine 5yo Arc winners ever); Friendly Soul is 5yo+ (won 2024 Prix de l'Opera), ~25/1; Bay City Roller trained by George Scott (both G1 wins on soft; ~75% to run, wants rain); Varandir trained by Graffard; Saddadd by Roger Varian; Thundering On J O'Brien; Arrow Eagle Rouget; Bright Light Suborics; Chestnut Rocket Karkosa.
+Ground: sources still conflict (clerk: dry, good/good-to-firm; later report: close to good-to-soft). Maltese Cross has lost twice when soft is in the going; Bay City Roller needs soft; Daryz handles both.
+Daryz risks: no colt has won back-to-back Arcs since Alleged (1978).
+
+### Prediction v2 (draw not applied)
+| Pos | Fast ground | Soft ground |
+|---|---|---|
+| 1 | Daryz | Daryz |
+| 2 | Maltese Cross | Maltese Cross |
+| 3 | Kalpana | Kalpana |
+| 4 | Diamond Necklace | Diamond Necklace |
+| 5 | Benvenuto Cellini | Benvenuto Cellini |
+| 6 | Minnie Hauk | Minnie Hauk |
+| 7 | Friendly Soul | Bay City Roller |
+Next just outside: Varandir, Friendly Soul/Bay City Roller.
+Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13) only widens Daryz's lead and drops Maltese Cross/Kalpana a little; top order is unchanged.
+
+### Still unverified
+Official stalls, official going, odds for Varandir/Saddadd/Japanese/outsiders (estimates), jockeys for Minnie Hauk/Benvenuto Cellini/Diamond Necklace.
