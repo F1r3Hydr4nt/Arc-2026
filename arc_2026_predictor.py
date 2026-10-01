@@ -1,4 +1,4 @@
-"""Rules-based finishing-order predictor: 2026 Qatar Prix de l'Arc de Triomphe (v2).
+"""Rules-based finishing-order predictor: 2026 Qatar Prix de l'Arc de Triomphe (v3, no bookmaker odds).
 
 Each runner gets 0-10 scores from hand-written rules; a weighted sum ranks them.
 Ground and draw are scenarios because both were unconfirmed at the time of writing.
@@ -10,27 +10,27 @@ import argparse
 
 # form: quality of 2026 results   dist: proven at 12f / Longchamp
 # fast / soft: suitability for good-to-firm / good-to-soft-or-softer ground
-# conn: trainer/jockey big-race record   known: False means odds are my estimate
+# conn: trainer/jockey big-race record. Bookmaker odds are deliberately NOT used.
 R = {
- "Daryz":            dict(age=4, sex="C", trainer="F-H Graffard", form=9.5, dist=10, fast=9, soft=9, conn=8, odds=2.75, known=True),   # 2025 Arc winner (very soft), 2026 Foy on good-to-firm by 1.5L
- "Maltese Cross":    dict(age=3, sex="C", trainer="W Haggas",     form=9.0, dist=8,  fast=8, soft=5, conn=8, odds=5.5,  known=True),   # Derby 2nd, GP Paris, Gt Voltigeur (RPR 124); lost twice when soft in going
- "Kalpana":          dict(age=5, sex="F", trainer="A Balding",    form=9.5, dist=8,  fast=9, soft=7, conn=8, odds=8.0,  known=True),   # King George (beat Calandagan 1.5L, GF) + Yorkshire Oaks
- "Diamond Necklace": dict(age=3, sex="F", trainer="A O'Brien",    form=7.5, dist=4,  fast=7, soft=7, conn=9, odds=9.0,  known=True),   # first defeat last time; first try at 12f; money coming
- "Friendly Soul":    dict(age=5, sex="F", trainer="J&T Gosden",   form=7.5, dist=8,  fast=7, soft=7, conn=9, odds=26.0, known=True),   # Prix Vermeille (made all), 2024 Prix de l'Opera: course form
- "Benvenuto Cellini":dict(age=3, sex="C", trainer="A O'Brien",    form=7.0, dist=8,  fast=7, soft=7, conn=9, odds=17.0, known=True),   # Irish Derby, 3rd King George, 5th Niel
- "Minnie Hauk":      dict(age=4, sex="F", trainer="A O'Brien",    form=6.5, dist=9,  fast=7, soft=7, conn=9, odds=21.0, known=True),   # 2025 Arc head 2nd; mixed 2026
- "Bay City Roller":  dict(age=4, sex="C", trainer="G Scott",      form=7.0, dist=8,  fast=6, soft=9, conn=6, odds=26.0, known=True),   # 2nd to Daryz in Foy; both G1 wins on soft; 75% to run, wants rain
- "Varandir":         dict(age=3, sex="C", trainer="F-H Graffard", form=6.5, dist=8,  fast=7, soft=7, conn=7, odds=21.0, known=False), # Prix Niel winner
- "Saddadd":          dict(age=4, sex="C", trainer="R Varian",     form=6.0, dist=7,  fast=7, soft=7, conn=7, odds=34.0, known=False), # Grosser Preis von Baden
- "Meisho Tabaru":    dict(age=5, sex="C", trainer="Japan",        form=8.0, dist=6,  fast=7, soft=4, conn=5, odds=26.0, known=False), # 2x Takarazuka; no prep
- "Admire Terra":     dict(age=5, sex="C", trainer="Japan",        form=7.0, dist=5,  fast=7, soft=4, conn=5, odds=34.0, known=False), # Hanshin Daishoten; no prep
- "Bright Light":     dict(age=4, sex="C", trainer="A Suborics",   form=5.5, dist=6,  fast=6, soft=6, conn=5, odds=67.0, known=False), # multiple G1-placed
- "Thundering On":    dict(age=4, sex="C", trainer="J O'Brien",    form=5.0, dist=6,  fast=6, soft=6, conn=5, odds=67.0, known=False),
- "Arrow Eagle":      dict(age=4, sex="C", trainer="J-C Rouget",   form=5.0, dist=6,  fast=6, soft=6, conn=6, odds=67.0, known=False),
- "Chestnut Rocket":  dict(age=4, sex="C", trainer="A Karkosa",    form=4.5, dist=5,  fast=6, soft=6, conn=4, odds=100.0, known=False),
+ "Daryz":            dict(age=4, sex="C", trainer="F-H Graffard", form=9.5, dist=10, fast=9, soft=9, conn=8,),   # 2025 Arc winner (very soft), 2026 Foy on good-to-firm by 1.5L
+ "Maltese Cross":    dict(age=3, sex="C", trainer="W Haggas",     form=9.0, dist=8,  fast=8, soft=5, conn=8),   # Derby 2nd, GP Paris, Gt Voltigeur (RPR 124); lost twice when soft in going
+ "Kalpana":          dict(age=5, sex="F", trainer="A Balding",    form=9.5, dist=8,  fast=9, soft=7, conn=8),   # King George (beat Calandagan 1.5L, GF) + Yorkshire Oaks
+ "Diamond Necklace": dict(age=3, sex="F", trainer="A O'Brien",    form=7.5, dist=4,  fast=7, soft=7, conn=9),   # first defeat last time; first try at 12f; money coming
+ "Friendly Soul":    dict(age=5, sex="F", trainer="J&T Gosden",   form=7.5, dist=8,  fast=7, soft=7, conn=9,),   # Prix Vermeille (made all), 2024 Prix de l'Opera: course form
+ "Benvenuto Cellini":dict(age=3, sex="C", trainer="A O'Brien",    form=7.0, dist=8,  fast=7, soft=7, conn=9,),   # Irish Derby, 3rd King George, 5th Niel
+ "Minnie Hauk":      dict(age=4, sex="F", trainer="A O'Brien",    form=6.5, dist=9,  fast=7, soft=7, conn=9,),   # 2025 Arc head 2nd; mixed 2026
+ "Bay City Roller":  dict(age=4, sex="C", trainer="G Scott",      form=7.0, dist=8,  fast=6, soft=9, conn=6,),   # 2nd to Daryz in Foy; both G1 wins on soft; 75% to run, wants rain
+ "Varandir":         dict(age=3, sex="C", trainer="F-H Graffard", form=6.5, dist=8,  fast=7, soft=7, conn=7,), # Prix Niel winner
+ "Saddadd":          dict(age=4, sex="C", trainer="R Varian",     form=6.0, dist=7,  fast=7, soft=7, conn=7,), # Grosser Preis von Baden
+ "Meisho Tabaru":    dict(age=5, sex="C", trainer="Japan",        form=8.0, dist=6,  fast=7, soft=4, conn=5,), # 2x Takarazuka; no prep
+ "Admire Terra":     dict(age=5, sex="C", trainer="Japan",        form=7.0, dist=5,  fast=7, soft=4, conn=5,), # Hanshin Daishoten; no prep
+ "Bright Light":     dict(age=4, sex="C", trainer="A Suborics",   form=5.5, dist=6,  fast=6, soft=6, conn=5,), # multiple G1-placed
+ "Thundering On":    dict(age=4, sex="C", trainer="J O'Brien",    form=5.0, dist=6,  fast=6, soft=6, conn=5,),
+ "Arrow Eagle":      dict(age=4, sex="C", trainer="J-C Rouget",   form=5.0, dist=6,  fast=6, soft=6, conn=6,),
+ "Chestnut Rocket":  dict(age=4, sex="C", trainer="A Karkosa",    form=4.5, dist=5,  fast=6, soft=6, conn=4,),
 }
 
-W = dict(form=0.30, dist=0.15, ground=0.10, conn=0.10, market=0.35)
+W = dict(form=0.46, dist=0.23, ground=0.15, conn=0.15)   # v2 weights with market removed, rescaled to 1.0
 JAPAN = ("Meisho Tabaru", "Admire Terra")
 
 
@@ -64,14 +64,14 @@ def draw_adjust(stall):
 
 def score(name, going, draw):
     r = R[name]
-    market = min(10 * (1 / r["odds"]) / (1 / 2.75), 10)   # favourite = 10
     s = (W["form"] * r["form"] + W["dist"] * r["dist"] + W["ground"] * r[going]
-         + W["conn"] * r["conn"] + W["market"] * market)
+         + W["conn"] * r["conn"])
     return round(s + trend_adjust(name, r) + draw_adjust(draw.get(name)), 2)
 
 
 def rank(going, draw):
-    return sorted(R, key=lambda n: score(n, going, draw), reverse=True)
+    # ties broken by 2026 form score
+    return sorted(R, key=lambda n: (score(n, going, draw), R[n]["form"]), reverse=True)
 
 
 if __name__ == "__main__":

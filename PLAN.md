@@ -18,5 +18,8 @@
 
 - [x] Saved first prediction (PREDICTION_v1.md) and session log (SESSION_LOG.md)
 
+- [x] v3: bookmaker odds removed, weights rescaled
+- [ ] Replace judgement scores with sourced figures (RPRs/Timeform, trainer G1 strike rates) once a racecard is available
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

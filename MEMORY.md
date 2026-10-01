@@ -57,3 +57,21 @@ Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13) only widens Daryz
 Official stalls, official going, odds for Varandir/Saddadd/Japanese/outsiders (estimates), jockeys for Minnie Hauk/Benvenuto Cellini/Diamond Necklace.
 
 - 2026-10-01: Saved PREDICTION_v1.md (original first prediction), predictor_v1_original.py and SESSION_LOG.md (condensed session copy).
+
+## Update 2026-10-01 — model v3: BOOKMAKER ODDS REMOVED (user instruction)
+User: disregard bookmakers' odds. Odds field and 35% market weight deleted; remaining weights rescaled: form 46%, distance 23%, ground 15%, connections 15%. Ties broken by 2026 form score. Odds listed in earlier sections of this file are historical only and are no longer used.
+
+### Prediction v3 (draw not applied)
+| Pos | Fast ground | Soft ground |
+|---|---|---|
+| 1 | Daryz (8.92) | Daryz (8.92) |
+| 2 | Maltese Cross (8.38) | Kalpana (8.06) |
+| 3 | Kalpana (8.36) | Maltese Cross (7.93) |
+| 4 | Benvenuto Cellini (7.46) | Benvenuto Cellini (7.46) |
+| 5 | Minnie Hauk (7.46) | Minnie Hauk (7.46) |
+| 6 | Friendly Soul (7.29) | Bay City Roller (7.31) |
+| 7 | Diamond Necklace (6.97) | Friendly Soul (7.29) |
+Next: Varandir 6.93, Bay City Roller 6.86 (fast) / Diamond Necklace 6.97 (soft 8th).
+What changed vs v2: Diamond Necklace falls from 4th to 7th/8th (her 12f ability is unproven, and market had been propping her up); Friendly Soul and Minnie Hauk rise. Maltese Cross and Kalpana swap on soft ground. Cellini/Minnie Hauk tie on score; Cellini placed ahead on form tie-break.
+Caveat: the 0-10 form/distance/ground/connection scores are my own judgements from search summaries, some of which quote market views, so independence from odds is not total.
+Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13), fast ground: Daryz, Kalpana, Maltese Cross, Cellini, Minnie Hauk, Friendly Soul, Diamond Necklace.

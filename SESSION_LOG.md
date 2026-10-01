@@ -56,3 +56,21 @@ v2 prediction, draw not applied: 1 Daryz, 2 Maltese Cross, 3 Kalpana, 4 Diamond 
 Ok save that first prediction to a file and a copy of this entire prompt and response session
 ## Assistant
 Saved PREDICTION_v1.md, predictor_v1_original.py and this SESSION_LOG.md.
+
+---
+## User
+Ok save that first prediction to a file and a copy of this entire prompt and response session
+## Assistant
+Saved PREDICTION_v1.md, predictor_v1_original.py, SESSION_LOG.md.
+
+---
+## User
+Wait a minute, the prediction you saved to the repo has Minnie Hauk coming 7th but originally 6th? What changed?
+## Assistant
+The saved v1 was accurate (Minnie Hauk 7th in v1). She is 6th in v2 only because Friendly Soul dropped (odds guess 13/1 -> ~25/1, and 5yo penalty applied) and everyone below moved up.
+
+---
+## User
+I should have said to disregard bookmakers odds they're cowboys, update everything and make a new prediction on this
+## Assistant
+Removed odds and the 35% market weight, rescaled weights to form 46 / distance 23 / ground 15 / connections 15, added a form tie-break. v3 prediction: fast ground Daryz, Maltese Cross, Kalpana, Benvenuto Cellini, Minnie Hauk, Friendly Soul, Diamond Necklace; soft ground Daryz, Kalpana, Maltese Cross, Benvenuto Cellini, Minnie Hauk, Bay City Roller, Friendly Soul. Pushed to the repo.
