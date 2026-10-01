@@ -10,7 +10,7 @@ import argparse
 
 # form: quality of 2026 results   dist: proven at 12f / Longchamp
 # fast / soft: suitability for good-to-firm / good-to-soft-or-softer ground
-# conn: trainer/jockey big-race record. Bookmaker odds are deliberately NOT used.
+# conn: trainer/jockey big-race record.
 R = {
  "Daryz":            dict(age=4, sex="C", trainer="F-H Graffard", form=10,  dist=10, fast=9, soft=9, conn=8),   # 2026: won Prix Ganay (G1) + Prix d'Ispahan (G1), 3rd Prince of Wales's (virus/travel excuses), won Prix Foy; 2025 Arc winner on very soft
  "Maltese Cross":    dict(age=3, sex="C", trainer="W Haggas",     form=9.0, dist=8,  fast=8, soft=5, conn=8),   # Derby 2nd (soft), Grand Prix de Paris, Gt Voltigeur (RPR 124); soft-ground doubts per Racing Post summary

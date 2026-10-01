@@ -75,3 +75,15 @@ Biggest change of this round: a data error, not the market. Thundering On had be
 | 6 | Varandir 6.54 | Friendly Soul 7.64 | Varandir 6.54 | Maltese Cross 7.73 | Friendly Soul 6.63 |
 | 7 | Friendly Soul 6.51 | Diamond Necklace 7.57 | Diamond Necklace 6.46 | Minnie Hauk 7.49 | Varandir 6.54 |
 Effect of the audit: the top of the order held (Daryz, Kalpana/Thundering On, then Cellini/Maltese Cross); the bottom of the top 7 moved. Diamond Necklace re-enters the top 7 on fast ground despite stall 16; Friendly Soul's soft/fast split widened; Varandir slips out of the top 7 without the market.
+
+## v8 and v9: jockeys added (21:0x UTC, 1 Oct 2026)
+| Pos | v6 fast | v8 fast (+jockeys, no odds) | v7 fast | v9 fast (+jockeys, odds) | v8 soft | v9 soft |
+|---|---|---|---|---|---|---|
+| 1 | Daryz 9.65 | Daryz 9.60 | Daryz 9.76 | Daryz 9.73 | Daryz 9.60 | Daryz 9.73 |
+| 2 | Kalpana 8.86 | Thundering On 8.96 | Kalpana 8.02 | Thundering On 7.98 | Thundering On 8.96 | Thundering On 7.98 |
+| 3 | Thundering On 8.85 | Kalpana 8.75 | Thundering On 7.89 | Kalpana 7.95 | Kalpana 8.47 | Kalpana 7.73 |
+| 4 | Benvenuto Cellini 8.26 | Benvenuto Cellini 8.35 | Maltese Cross 7.42 | Maltese Cross 7.46 | Benvenuto Cellini 8.35 | Benvenuto Cellini 7.26 |
+| 5 | Maltese Cross 8.18 | Maltese Cross 8.22 | Benvenuto Cellini 7.19 | Benvenuto Cellini 7.26 | Friendly Soul 8.00 | Maltese Cross 7.13 |
+| 6 | Friendly Soul 7.64 | Friendly Soul 7.72 | Varandir 6.54 | Varandir 6.51 | Maltese Cross 7.80 | Friendly Soul 6.68 |
+| 7 | Diamond Necklace 7.57 | Diamond Necklace 7.61 | Diamond Necklace 6.46 | Diamond Necklace 6.49 | Minnie Hauk 7.56 | Varandir 6.51 |
+Effect of jockeys: small. Thundering On (Boudot, an Arc winner) edges ahead of Kalpana (Keane) in both new versions; otherwise the order is unchanged. Jockey scores are judgement-based, and three Ballydoyle rides are unconfirmed.

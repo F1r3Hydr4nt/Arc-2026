@@ -126,3 +126,10 @@ New models: v6 (audited, no odds) and v7 (audited + 20% Paddy Power prices; now 
 v6 fast top 7: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Maltese Cross, Friendly Soul, Diamond Necklace. v6 soft: Daryz, Thundering On, Kalpana, Cellini, Friendly Soul, Maltese Cross, Minnie Hauk.
 v7 fast top 7: Daryz, Kalpana, Thundering On, Maltese Cross, Cellini, Varandir, Diamond Necklace. v7 soft: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Friendly Soul, Varandir.
 Lesson: error came from not researching low-profile runners and from generic assumptions (e.g. 'Japanese horses hate soft'); fixed by searching each runner individually.
+
+## Round 2: jockeys and missing form (see AUDIT.md 'Round 2')
+- NOT Japanese: Arrow Eagle (French, Rouget), Chestnut Rocket (Karkosa, French-based), Bright Light (German, Suborics). Japanese runners are only Meisho Tabaru and Admire Terra.
+- Oaks: Diamond Necklace won the PRIX DE DIANE (French Oaks) + Poule d'Essai des Pouliches; 2026 EPSOM Oaks winner is Thundering On. User thought the Oaks was this year's; Diamond Necklace's was the French Oaks.
+- Missing form found: Arrow Eagle 4th Prix Ganay 2026 (only 2026 run found); Chestnut Rocket Listed win + 2nd Grand Prix de Deauville G2; Bright Light 2nd Gr Preis von Berlin G1, 3rd Baden G1.
+- Jockeys added to the model (JOCKEY dict). Ballydoyle trio rides unannounced at time of writing: provisional 8 each.
+- v8 (jockeys, no odds) fast top 7: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Diamond Necklace. v9 (jockeys + odds; root script) fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace.

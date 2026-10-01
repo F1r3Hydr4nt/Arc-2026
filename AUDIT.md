@@ -29,3 +29,11 @@ Kalpana (5yo mare; King George on good-to-firm, Yorkshire Oaks on soft), Maltese
 - Jockeys are not modelled at all; trainer/jockey "connections" scores remain my judgement.
 - Ground: still unresolved (conflicting forecasts).
 - All 0-10 scores are my judgement from these summaries.
+
+## Round 2 (jockeys + missing form), 1 Oct 2026 ~21:00 UTC
+- None of the three "missing form" horses is Japanese. Japan's two runners are Meisho Tabaru and Admire Terra. Arrow Eagle is French (Rouget), Chestnut Rocket is a French-based Polish-owned stable's horse (Karkosa; Polish Derby winner), Bright Light is German-trained (Suborics), French-bred.
+- Oaks check: Diamond Necklace's win was the PRIX DE DIANE (French Oaks, Chantilly, June 2026, by a neck under Ryan Moore), plus the Poule d'Essai des Pouliches and the 2025 Prix Marcel Boussac. The 2026 EPSOM Oaks was won by Thundering On. (Diamond Necklace therefore did not win the Epsom Oaks.)
+- Arrow Eagle 2026: 4th in the Prix Ganay (G1, 26 Apr, behind Daryz). The "6th in the Prix Foy behind Byzantine Dream" in a summary is 2025 form (the 2026 Foy was won by Daryz). No other 2026 run found. Still thin.
+- Chestnut Rocket 2026: Listed winner (Prix Hubert Baguenault de Puchesse), 2nd in the Grand Prix de Deauville G2 (30 Aug) to Al Aasy, ridden by Grandin.
+- Bright Light 2026: 2nd Grosser Preis von Berlin G1 (Hoppegarten, 9 Aug, 2400m, beaten a neck by Tiffany), 3rd Grosser Preis von Baden G1 behind Saddadd. Confirmed.
+- Jockeys (search summaries): Daryz Barzalona; Maltese Cross Marquand; Kalpana Keane; Thundering On Boudot; Friendly Soul Doyle; Bay City Roller Murphy; Varandir Lecoeuvre; Saddadd R Dawson; Meisho Tabaru Take; Admire Terra Demuro; Bright Light Marie; Arrow Eagle Mendizabal; Chestnut Rocket Grandin. NOT YET ANNOUNCED: Minnie Hauk, Benvenuto Cellini, Diamond Necklace (Ryan Moore to choose among Ballydoyle trio; deadline 21:30 GMT). Saddadd's Baden win was ridden by a different jockey per one summary.

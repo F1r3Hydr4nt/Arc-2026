@@ -140,3 +140,9 @@ Betfair showed no prices (suspended); used Paddy Power. Noticed Thundering On at
 If you made such an elemental error maybe you need to recheck all entries
 ## Assistant
 Agreed. Re-searched all 16 runners individually (16 searches). Found and fixed: Diamond Necklace's form badly understated (unbeaten in six before her first defeat, four G1s); Admire Terra's G1/G2 error; Bright Light is 3yo; Arrow Eagle is 5yo; Meisho Tabaru won on yielding ground; Friendly Soul dislikes firm ground; Daryz's 2026 G1s; Thundering On confirmed Oaks winner. Wrote AUDIT.md, built v6 (no odds) and v7 (with market), made v7 the root script. v6 fast: Daryz, Kalpana, Thundering On, Cellini, Maltese Cross, Friendly Soul, Diamond Necklace. v7 fast: Daryz, Kalpana, Thundering On, Maltese Cross, Cellini, Varandir, Diamond Necklace. Pushed.
+
+---
+## User
+Add jockeys into the model and then go try find the form for those missing horses are they Japanese by any chance? I think it was this year's oaks surely you can check
+## Assistant
+Searched jockeys, Diamond Necklace's Oaks, and the three thin horses. None of the three is Japanese. Diamond Necklace won the Prix de Diane (French Oaks); the Epsom Oaks was Thundering On. Found Arrow Eagle 4th Ganay, Chestnut Rocket Listed + 2nd Grand Prix de Deauville, Bright Light 2nd Berlin G1 / 3rd Baden G1. Added JOCKEY scores (Ballydoyle trio unannounced, provisional 8). Built v8 (no odds) and v9 (with odds, root script). v9 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace. Pushed.

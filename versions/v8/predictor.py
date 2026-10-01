@@ -1,4 +1,4 @@
-"""Rules-based finishing-order predictor: 2026 Qatar Prix de l'Arc de Triomphe (v9, audited inputs + jockeys + market prices).
+"""Rules-based finishing-order predictor: 2026 Qatar Prix de l'Arc de Triomphe (v8, audited inputs + jockeys, no bookmaker odds).
 
 Each runner gets 0-10 scores from hand-written rules; a weighted sum ranks them.
 Ground and draw are scenarios because both were unconfirmed at the time of writing.
@@ -10,7 +10,7 @@ import argparse
 
 # form: quality of 2026 results   dist: proven at 12f / Longchamp
 # fast / soft: suitability for good-to-firm / good-to-soft-or-softer ground
-# conn: trainer big-race record (jockey scored separately).
+# conn: trainer big-race record (jockey scored separately). Bookmaker odds are deliberately NOT used.
 R = {
  "Daryz":            dict(age=4, sex="C", trainer="F-H Graffard", form=10,  dist=10, fast=9, soft=9, conn=8),   # 2026: won Prix Ganay (G1) + Prix d'Ispahan (G1), 3rd Prince of Wales's (virus/travel excuses), won Prix Foy; 2025 Arc winner on very soft
  "Maltese Cross":    dict(age=3, sex="C", trainer="W Haggas",     form=9.0, dist=8,  fast=8, soft=5, conn=8),   # Derby 2nd (soft), Grand Prix de Paris, Gt Voltigeur (RPR 124); soft-ground doubts per Racing Post summary
@@ -52,16 +52,7 @@ JOCKEY = {
  "Chestnut Rocket": ("M Grandin", 6),
 }
 
-W = dict(form=0.34, dist=0.17, ground=0.11, conn=0.09, jockey=0.09, market=0.20)   # sums to 1.0
-
-# Paddy Power "Final Decs" fixed odds, Thu 1 Oct 2026 20:05 (user screenshot), post-draw. Fractional -> decimal.
-# NOTE: a bookmaker price, not the exchange. The Betfair screenshot (20:04) was suspended with no prices.
-ODDS = {"Daryz": 7/4, "Kalpana": 5, "Maltese Cross": 5, "Thundering On": 8, "Diamond Necklace": 10,
-        "Varandir": 10, "Benvenuto Cellini": 12, "Minnie Hauk": 20, "Saddadd": 20, "Friendly Soul": 20,
-        "Bay City Roller": 25, "Meisho Tabaru": 33, "Admire Terra": 66, "Bright Light": 100,
-        "Arrow Eagle": 100, "Chestnut Rocket": 150}
-IMPLIED = {n: 1 / (f + 1) for n, f in ODDS.items()}
-OVERROUND = sum(IMPLIED.values())   # >1 is the bookmaker margin; scaling by the favourite cancels it out
+W = dict(form=0.42, dist=0.21, ground=0.14, conn=0.11, jockey=0.12)   # sums to 1.0
 JAPAN = ("Meisho Tabaru", "Admire Terra")
 
 
@@ -95,9 +86,8 @@ def draw_adjust(stall):
 
 def score(name, going, draw):
     r = R[name]
-    market = 10 * IMPLIED[name] / max(IMPLIED.values())   # favourite = 10
     s = (W["form"] * r["form"] + W["dist"] * r["dist"] + W["ground"] * r[going]
-         + W["conn"] * r["conn"] + W["jockey"] * JOCKEY[name][1] + W["market"] * market)
+         + W["conn"] * r["conn"] + W["jockey"] * JOCKEY[name][1])
     return round(s + trend_adjust(name, r) + draw_adjust(draw.get(name)), 2)
 
 
@@ -113,6 +103,6 @@ if __name__ == "__main__":
     a = ap.parse_args()
     draw = {k: int(v) for k, v in (p.split("=") for p in a.draw.split(",") if p)}
     for going in ([a.going] if a.going else ["fast", "soft"]):
-        print(f"\n== going: {going}  |  draw: {'applied' if draw else 'NOT applied'}  |  book overround {OVERROUND:.3f} ==")
+        print(f"\n== going: {going}  |  draw: {'applied' if draw else 'NOT applied'} ==")
         for i, n in enumerate(rank(going, draw)[:9], 1):
             print(f"{i:>2}. {n:<18} {score(n, going, draw):.2f}")
