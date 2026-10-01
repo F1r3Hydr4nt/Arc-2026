@@ -15,4 +15,4 @@ The user told me to disregard bookmakers' odds. Do not use odds as a model input
 Each model or input change that alters the prediction gets a new `versions/vN/` folder (`predictor.py` + `PREDICTION.md`) and a row in `PREDICTION_HISTORY.md`.
 
 ## Rule 4: pending
-Confirm the official Arc draw (due 19:45 GMT Thu 1 Oct 2026) and going, then rerun `arc_2026_predictor.py --draw "Name=stall,..."`.
+Draw is done (v4). Remaining: confirm official going on Sunday morning and rerun; after the race, record the result and score the model.

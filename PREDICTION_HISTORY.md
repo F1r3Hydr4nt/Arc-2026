@@ -34,8 +34,17 @@ Under v3 the rumoured wide draw (13) for Maltese Cross is enough to drop him bel
 - Minnie Hauk: 7th -> 6th -> 5th. Own score fell/rose only relative to others (5.36 in v1/v2).
 - Maltese Cross vs Kalpana: swap on soft ground in v3 and under the rumoured draw.
 
-## v4: draw-announcement revision (TO FILL IN after 19:45 GMT Thu 1 Oct)
-- Official stalls: _pending_
-- Official going: _pending_
-- Command: `python3 arc_2026_predictor.py --draw "Name=stall,..."` for fast and soft
-- Result and what moved: _pending_
+## v4: draw-announcement revision (DONE, 19:48 GMT 1 Oct 2026). Full detail: versions/v4/PREDICTION.md
+Official draw: 1 Benvenuto Cellini, 2 Chestnut Rocket, 3 Thundering On, 4 Varandir, 5 Daryz, 6 Kalpana, 7 Friendly Soul, 8 Bright Light, 9 Saddadd, 10 Minnie Hauk, 11 Maltese Cross, 12 Admire Terra, 13 Meisho Tabaru, 14 Arrow Eagle, 15 Bay City Roller, 16 Diamond Necklace.
+
+| Pos | v3 fast (no draw) | v4 fast (draw) | v4 soft (draw) |
+|---|---|---|---|
+| 1 | Daryz 8.92 | Daryz 9.42 | Daryz 9.42 |
+| 2 | Maltese Cross 8.38 | Kalpana 8.86 | Kalpana 8.56 |
+| 3 | Kalpana 8.36 | Benvenuto Cellini 8.26 | Benvenuto Cellini 8.26 |
+| 4 | Benvenuto Cellini 7.46 | Maltese Cross 8.18 | Friendly Soul 7.79 |
+| 5 | Minnie Hauk 7.46 | Friendly Soul 7.79 | Maltese Cross 7.73 |
+| 6 | Friendly Soul 7.29 | Varandir 7.43 | Varandir 7.43 |
+| 7 | Diamond Necklace 6.97 | Minnie Hauk 7.26 | Minnie Hauk 7.26 |
+
+Biggest changes: Maltese Cross falls from 2nd to 4th/5th (stall 11); Kalpana is promoted to 2nd; Cellini rises to 3rd (stall 1); Varandir (stall 4) enters the top 7; Diamond Necklace (stall 16) drops out.

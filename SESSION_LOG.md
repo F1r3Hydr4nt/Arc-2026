@@ -110,3 +110,9 @@ Official/primary weather sources were blocked, so used search summaries. Racing 
 Read the draw from here if you can and output a table [Racing Post draw live-blog URL]
 ## Assistant
 Racing Post blocked. Search summaries gave three conflicting draws (Daryz 1/5/1, Kalpana 9/6/9, Maltese Cross 13/11/14), one of which was just the declared-runner order numbered 1-16. The draw was not due until 19:45 GMT, so declined to present any as real; no table produced; nothing applied to the model. Asked the user to paste the table.
+
+---
+## User
+Benvenuto Cellini is in stall one. And there's your draw! [pasted live-blog entries 1-16 from 19:45-19:48, 1 Oct 2026]
+## Assistant
+Parsed the 16 stalls, ran the model with the draw (stall rule: 1-3 +0.8, 4-8 +0.5, 9-12 -0.2, 13+ -0.7), created versions/v4 (predictor.py + PREDICTION.md), filled the v4 section of PREDICTION_HISTORY.md, updated MEMORY/PLAN/CLAUDE, deleted the now-unneeded 19:55 reminder. v4 fast: Daryz, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir, Minnie Hauk. Maltese Cross fell from 2nd to 4th (stall 11); Diamond Necklace (stall 16) dropped out.

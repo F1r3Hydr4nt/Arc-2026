@@ -8,7 +8,7 @@
 ## Next
 - [ ] Delete old repo (NOT done: branch delete refused; user to delete repo in GitHub settings)
 - [x] Draw rule added (stall<=3 +0.8, <=8 +0.5, 9-12 -0.2, 13+ -0.7); use `--draw "Name=stall,..."`
-- [ ] AT 19:45 GMT THU 1 OCT: confirm official draw and run with `--draw`; push result
+- [x] Official draw applied (v4), pushed
 - [x] Per-horse going scores added (`--going fast|soft`)
 - [ ] Confirm official going on Sunday morning and re-run (1 Oct check: dry, good to good-to-firm likely; fast scenario favoured)
 - [ ] Replace estimated odds/trainers with real data (needs racecard text; Racing Post is blocked from this environment)
@@ -26,7 +26,7 @@
 - [x] Standing rule written to CLAUDE.md: update all files + append SESSION_LOG after every exchange
 
 - [x] Reconstructed every prediction iteration (PREDICTION_HISTORY.md + versions/v1..v3)
-- [ ] Fill in v4 section of PREDICTION_HISTORY.md after the draw; fill versions/v4/PREDICTION.md and save versions/v4/predictor.py
+- [x] Filled in v4 section of PREDICTION_HISTORY.md; fill versions/v4/PREDICTION.md and save versions/v4/predictor.py
 
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

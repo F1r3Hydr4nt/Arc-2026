@@ -101,3 +101,9 @@ Full record of every iteration (v1, v2, v3, rumoured-draw tests, and a v4 draw-r
 - Racing Post page is blocked from this environment (cannot read it). The page title says stalls are "to be revealed" and the draw is due 19:45 GMT Thu 1 Oct; at the time of the attempt it was still before 19:45 UTC.
 - Search summary returned two mutually contradictory "draws": (a) Daryz 5, Kalpana 6, Maltese Cross 11; (b) a 1-16 list that is simply the declared-runner order (Daryz 1, Saddadd 2, ... Diamond Necklace 16), which matches the runner list order from the confirmed-runners article, not a real draw. An earlier summary gave Daryz 1, Kalpana 9, Maltese Cross 13. Three conflicting versions = NONE verified. Not applied to the model.
 - Action: wait for the real draw (scheduled check 19:55 UTC) or for the user to paste the table.
+
+## OFFICIAL DRAW (19:45-19:48 GMT, 1 Oct 2026; pasted by user from Racing Post live blog) and v4 prediction
+1 Benvenuto Cellini, 2 Chestnut Rocket, 3 Thundering On, 4 Varandir, 5 Daryz, 6 Kalpana, 7 Friendly Soul, 8 Bright Light, 9 Saddadd, 10 Minnie Hauk, 11 Maltese Cross, 12 Admire Terra, 13 Meisho Tabaru, 14 Arrow Eagle, 15 Bay City Roller, 16 Diamond Necklace.
+All earlier "draws" from search summaries were wrong (superseded).
+v4 top 7 (fast, the favoured going): Daryz, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir, Minnie Hauk. Soft: Daryz, Kalpana, Cellini, Friendly Soul, Maltese Cross, Varandir, Minnie Hauk. Files: versions/v4/.
+Scheduled 19:55 UTC draw-check reminder deleted (no longer needed).
