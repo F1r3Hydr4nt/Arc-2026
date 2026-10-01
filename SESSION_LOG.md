@@ -74,3 +74,15 @@ The saved v1 was accurate (Minnie Hauk 7th in v1). She is 6th in v2 only because
 I should have said to disregard bookmakers odds they're cowboys, update everything and make a new prediction on this
 ## Assistant
 Removed odds and the 35% market weight, rescaled weights to form 46 / distance 23 / ground 15 / connections 15, added a form tie-break. v3 prediction: fast ground Daryz, Maltese Cross, Kalpana, Benvenuto Cellini, Minnie Hauk, Friendly Soul, Diamond Necklace; soft ground Daryz, Kalpana, Maltese Cross, Benvenuto Cellini, Minnie Hauk, Bay City Roller, Friendly Soul. Pushed to the repo.
+
+---
+## User
+You never took note of the Minnie Hauk discrepancy
+## Assistant
+Admitted the position change was explained in chat but not recorded. Added a discrepancy log to MEMORY.md (v1 7th, v2 6th, v3 5th; moved only because Friendly Soul fell) and a PLAN.md item. Asked the user to say if they meant a different discrepancy. Pushed (195b9d5).
+
+---
+## User
+Make a rule to update all files and append to SESSION_LOG after every user prompt->LLM response
+## Assistant
+Created CLAUDE.md with the rule (append SESSION_LOG, update MEMORY/PLAN/other files, commit and push after every exchange), plus the no-bookmaker-odds rule and the pending draw check. Mirrored the rule in MEMORY.md and PLAN.md. Pushed.

@@ -81,3 +81,7 @@ Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13), fast ground: Dar
 - v2: 6th (5.36 unchanged). She only moved up because Friendly Soul fell (guessed odds 13/1 -> ~25/1, and 5yo+ penalty applied), not because of any change to Minnie Hauk's own inputs.
 - v3 (odds removed): 5th (7.46), level with Benvenuto Cellini, who is placed ahead on the form tie-break.
 - Flagged by the user as a discrepancy that I had not recorded; recorded here. OPEN: user may mean a different discrepancy (e.g. in her form or ground data); to be clarified.
+
+## Standing rules (also in CLAUDE.md)
+- After every user prompt -> assistant response: append to SESSION_LOG.md, update MEMORY.md, PLAN.md and any affected files, commit and push to this repo.
+- Never use bookmaker odds as model input.

@@ -23,5 +23,7 @@
 
 - [ ] Clarify with user which Minnie Hauk discrepancy they mean (position change logged in MEMORY.md)
 
+- [x] Standing rule written to CLAUDE.md: update all files + append SESSION_LOG after every exchange
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.
