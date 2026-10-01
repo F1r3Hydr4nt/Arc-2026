@@ -87,4 +87,5 @@ Unconfirmed draw rumour (Daryz 1, Kalpana 9, Maltese Cross 13), fast ground: Dar
 - Never use bookmaker odds as model input.
 
 ## Prediction history
-Full record of every iteration (v1, v2, v3, rumoured-draw tests, and a v4 draw-revision slot) is in PREDICTION_HISTORY.md; runnable snapshots in history/predictor_v1.py, v2, v3. All three were re-run and reproduce the original numbers. v4 (official draw) is the revision expected to matter most and is still pending.
+Full record of every iteration (v1, v2, v3, rumoured-draw tests, and a v4 draw-revision slot) is in PREDICTION_HISTORY.md; runnable snapshots in versions/v1/predictor.py, v2, v3. All three were re-run and reproduce the original numbers. v4 (official draw) is the revision expected to matter most and is still pending.
+- 2026-10-01: Per-version folders created: versions/v1, v2, v3 (each predictor.py + PREDICTION.md with notes and captured output), versions/v4 placeholder (draw revision, pending). Replaces the earlier history/ folder.

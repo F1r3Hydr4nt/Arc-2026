@@ -92,3 +92,9 @@ Created CLAUDE.md with the rule (append SESSION_LOG, update MEMORY/PLAN/other fi
 You have no record of each iteration of the predictions go back in mem and create them, the biggest most interesting change comes later on the draw announcement revision
 ## Assistant
 Reconstructed every iteration: saved runnable snapshots history/predictor_v1.py, v2 (from commit c471d51) and v3, re-ran them and confirmed the numbers match. Wrote PREDICTION_HISTORY.md with side-by-side top-7 tables, the rumoured-draw tests (under v3 the rumoured stall 13 drops Maltese Cross below Kalpana), biggest movers, and an empty v4 slot for the official draw revision due after 19:45 GMT. Updated MEMORY.md and PLAN.md. Pushed.
+
+---
+## User
+Yeah and create the files in the repo under different versions
+## Assistant
+Created versions/v1, v2, v3 folders, each with its own predictor.py and PREDICTION.md (what changed, captured output, rumoured-draw test for v2/v3), plus a versions/v4 placeholder for the official-draw revision. Moved the earlier history/ snapshots into them, fixed references in PREDICTION_HISTORY, MEMORY, PLAN, CLAUDE and README. Pushed.

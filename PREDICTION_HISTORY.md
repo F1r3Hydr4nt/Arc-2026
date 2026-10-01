@@ -1,13 +1,13 @@
 # Prediction history — every iteration (reconstructed 2026-10-01 14:08 UTC)
 
-Each version's script is saved in `history/` and was re-run to reproduce these numbers.
+Each version has its own folder in `versions/` (predictor.py + PREDICTION.md) and was re-run to reproduce these numbers.
 The draw-announcement revision (v4) is the one expected to move things most; see the bottom.
 
 | Version | When | What changed | Script |
 |---|---|---|---|
-| v1 | 13:5x UTC | First model: form 30 / market 35 / distance 15 / ground 10 / connections 10; guessed odds; no ground or draw scenarios | `history/predictor_v1.py` |
-| v2 | 13:57 UTC | Corrected ages/trainers/odds (Kalpana 5yo, Friendly Soul ~25/1 and 5yo+, Bay City Roller = G Scott, Varandir = Graffard); added fast/soft ground and draw rule | `history/predictor_v2.py` |
-| v3 | ~14:00 UTC | User ordered bookmaker odds removed: weights form 46 / distance 23 / ground 15 / connections 15; form tie-break | `history/predictor_v3.py` (= current `arc_2026_predictor.py`) |
+| v1 | 13:5x UTC | First model: form 30 / market 35 / distance 15 / ground 10 / connections 10; guessed odds; no ground or draw scenarios | `versions/v1/predictor.py` |
+| v2 | 13:57 UTC | Corrected ages/trainers/odds (Kalpana 5yo, Friendly Soul ~25/1 and 5yo+, Bay City Roller = G Scott, Varandir = Graffard); added fast/soft ground and draw rule | `versions/v2/predictor.py` |
+| v3 | ~14:00 UTC | User ordered bookmaker odds removed: weights form 46 / distance 23 / ground 15 / connections 15; form tie-break | `versions/v3/predictor.py` (= current `arc_2026_predictor.py`) |
 | v4 | due 19:55 UTC | Official draw + going applied | pending |
 
 ## Top 7 by version (draw NOT applied unless stated)
