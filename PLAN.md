@@ -28,7 +28,9 @@
 - [x] Reconstructed every prediction iteration (PREDICTION_HISTORY.md + versions/v1..v3)
 - [x] Filled in v4 section of PREDICTION_HISTORY.md; fill versions/v4/PREDICTION.md and save versions/v4/predictor.py
 
-- [ ] v5: add Betfair exchange-implied probability (needs user-pasted post-draw prices); save versions/v5 and compare with v4
+- [x] v5 built with Paddy Power prices (Betfair suspended); versions/v5 and v4b saved
+- [ ] Replace Paddy Power prices with Betfair back prices when market reopens
+- [ ] Verify Thundering On's Oaks win and re-research the thin outsiders (Bright Light, Arrow Eagle, Chestnut Rocket, Admire Terra)
 - [ ] Re-check going: weather evidence conflicting; use official France Galop update Fri/Sat
 
 ## Workflow rule

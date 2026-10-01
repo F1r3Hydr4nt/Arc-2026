@@ -48,3 +48,18 @@ Official draw: 1 Benvenuto Cellini, 2 Chestnut Rocket, 3 Thundering On, 4 Varand
 | 7 | Diamond Necklace 6.97 | Minnie Hauk 7.26 | Minnie Hauk 7.26 |
 
 Biggest changes: Maltese Cross falls from 2nd to 4th/5th (stall 11); Kalpana is promoted to 2nd; Cellini rises to 3rd (stall 1); Varandir (stall 4) enters the top 7; Diamond Necklace (stall 16) drops out.
+
+## v4b and v5 (added 20:1x UTC, 1 Oct 2026)
+Top 7 with the official draw:
+
+| Pos | v4 fast | v4b fast | v5 fast | v4b soft | v5 soft |
+|---|---|---|---|---|---|
+| 1 | Daryz 9.42 | Daryz 9.42 | Daryz 9.58 | Daryz 9.42 | Daryz 9.58 |
+| 2 | Kalpana 8.86 | Kalpana 8.86 | Kalpana 8.02 | Thundering On 8.62 | Kalpana 7.78 |
+| 3 | Benvenuto Cellini 8.26 | Thundering On 8.62 | Thundering On 7.71 | Kalpana 8.56 | Thundering On 7.71 |
+| 4 | Maltese Cross 8.18 | Benvenuto Cellini 8.26 | Maltese Cross 7.42 | Benvenuto Cellini 8.26 | Benvenuto Cellini 7.19 |
+| 5 | Friendly Soul 7.79 | Maltese Cross 8.18 | Benvenuto Cellini 7.19 | Friendly Soul 7.79 | Maltese Cross 7.06 |
+| 6 | Varandir 7.43 | Friendly Soul 7.79 | Varandir 6.54 | Maltese Cross 7.73 | Varandir 6.54 |
+| 7 | Minnie Hauk 7.26 | Varandir 7.43 | Friendly Soul 6.51 | Varandir 7.43 | Friendly Soul 6.51 |
+
+Biggest change of this round: a data error, not the market. Thundering On had been mis-specified (colt, form 5.0, never researched); corrected she jumps into the top 3. The market then pushes Maltese Cross up (stall 11 matters less when priced 5/1) and Friendly Soul/Minnie Hauk down (20/1).
