@@ -145,3 +145,7 @@ One-shot routine trig_015cMdMaq1scoKkVRyEodTvj fires 2026-10-02 15:00 UTC (= 4pm
 - Jockey routine trig_015cMdMaq1scoKkVRyEodTvj (2 Oct 15:00 UTC) now also sends a PushNotification when it finishes (one line: Ballydoyle jockeys confirmed or not, new top 3). Notification only reaches the user if the session is alive and notifications are enabled/connected.
 - Betfair re-check scheduled via send_later trig_01AndsB93dHaoRXSd8J9wr3b for 21:30 UTC tonight (22:30 UK).
 - User supplied Betfair market URL: https://www.betfair.com/exchange/plus/en/horse-racing/parislongchamp-4th-oct-betting-35193074 . WebFetch of it is BLOCKED (egress proxy), same as all betfair.com. The page also likely needs JavaScript. Only route to Betfair prices: user pastes a screenshot/text, or runs the Betfair API locally.
+
+## Betfair re-check 21:30 UTC 1 Oct 2026 (scheduled routine fired)
+- betfair.com still blocked; searches returned NO Betfair Exchange prices. Post-draw bookmaker moves in the press agree with the Paddy Power card already used in v5-v10 (Daryz 7/4; Kalpana cut from 7/1 to 5/1; Maltese Cross 5/1 with some firms, as short as 7/2 elsewhere; Thundering On 8/1; Diamond Necklace drifted from 7/1 to 10/1 after stall 16). No model change; no new version.
+- Still need: user-pasted Betfair back prices (screenshot) when the market is open.

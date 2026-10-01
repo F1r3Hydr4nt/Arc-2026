@@ -170,3 +170,8 @@ Scheduled a Betfair re-check for 21:30 UTC tonight (22:30 UK) and added a PushNo
 [Betfair market URL: .../parislongchamp-4th-oct-betting-35193074]
 ## Assistant
 Tried to fetch it: blocked by the egress proxy (betfair.com), so no prices read. Logged the URL; still need a pasted screenshot or text for Betfair prices.
+
+---
+## (Scheduled routine, 21:30 UTC) Betfair prices check
+## Assistant
+Searched for post-draw Betfair Exchange prices: none found (betfair.com blocked). Press reports of post-draw bookmaker moves match the Paddy Power prices already in v5-v10. No model change. Notified the user to paste a Betfair screenshot if they want exchange prices used.
