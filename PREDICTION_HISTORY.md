@@ -111,3 +111,19 @@ Effect: removing the assumed 8s for the Ballydoyle trio costs Diamond Necklace a
 | 6 | Varandir 6.51 | Varandir 6.51 | Varandir 6.63 | Friendly Soul 6.68 | Friendly Soul 6.68 |
 | 7 | Friendly Soul 6.46 | Diamond Necklace 6.49 | Diamond Necklace 6.43 | Varandir 6.51 | Varandir 6.51 |
 Effect: Moore on Cellini lifts him a little; Soumillon puts Diamond Necklace back to 7th on fast ground only. With Racing Post/Coral's post-jockey 14/1s for DN and Cellini, Friendly Soul retakes 7th on fast ground.
+
+## Rank tracker: Thundering On and Minnie Hauk across versions (user question, 2 Oct)
+Official draw applied from v4 on; v1-v3 had no draw. Fast / soft ground. v1 had no ground scenarios (Minnie Hauk 7th, Thundering On 12th, from the original run).
+| Ver | Uses odds? | Thundering On | Minnie Hauk |
+|---|---|---|---|
+| v1 | yes (guessed) | 12th | 7th |
+| v2 | yes | outside top 9 | 6th / 6th |
+| v3 | no | outside top 9 | 5th / 5th |
+| v4 | no | outside top 9 (mis-specified) | 7th / 7th |
+| v4b | no | **3rd / 2nd** (data error fixed) | 8th / 8th |
+| v5 | yes | 3rd / 3rd | 8th / 8th |
+| v6 | no | 3rd / 2nd | 8th / 7th |
+| v7 | yes | 3rd / 2nd | 9th / 9th |
+| v8 | no | 2nd / 2nd | 8th / 7th |
+| v9-v11 | yes | 2nd / 2nd | 9th / 9th |
+Reading: Thundering On entered the top 7 at v4b, a no-odds version, because her inputs were corrected (3yo Oaks-winning filly, form 8.5), not because of the market weight. The 8/1 price on the Paddy Power screenshot is what tipped me off that I had mis-modelled her. Minnie Hauk left the top 7 on fast ground at v4b (pushed down by Thundering On's correction and by Varandir's stall 4) and on soft ground once the market (20/1) was added in v7+. Her own score never changed after v3.

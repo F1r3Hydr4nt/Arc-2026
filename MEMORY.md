@@ -155,3 +155,6 @@ Confirmed Ballydoyle rides: Benvenuto Cellini - Ryan Moore (picked after the dra
 Going: penetrometer 3.5 'souple' (~good to soft) Fri 2 Oct; dry forecast so good, maybe good to firm Sunday (search summaries).
 v11 (root script) top 7 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace. Soft: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir. With post-jockey 14/1 prices for DN/Cellini: fast 7th becomes Friendly Soul.
 Betfair prices still unavailable (blocked).
+
+## User challenge (2 Oct): 'Thundering On did not feature in the first 7 until bookmaker odds were taken into account; Minnie Hauk has left the rankings'
+Checked by re-running every version (rank tracker in PREDICTION_HISTORY.md). Thundering On: absent v1-v4, top 3 from v4b, a NO-ODDS version, so the claim is half right: the odds prompted me to find my data error but did not cause her ranking. Minnie Hauk: out of top 7 on fast ground from v4b (no odds), on soft ground only from v7 (market 20/1). Both are subject to my judgement-based scores.

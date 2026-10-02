@@ -180,3 +180,9 @@ Searched for post-draw Betfair Exchange prices: none found (betfair.com blocked)
 ## (Scheduled routine, 2 Oct 15:00 UTC) Arc jockey declarations check
 ## Assistant
 Found the Ballydoyle jockeys: Cellini - Ryan Moore, Diamond Necklace - Christophe Soumillon, Minnie Hauk - William Buick; other bookings unchanged. Built versions/v11 (Moore 9, Soumillon 8, Buick 8) and copied to the root script. v11 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace; soft: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir. Going Fri: penetrometer 3.5, dry forecast. Pushed and notified.
+
+---
+## User
+Correct me if I'm wrong but Joseph O'Brien's Thundering On did not feature in the predicted first 7 home until we took bookmaker odds into account, also Minnie Hauk has left those rankings now
+## Assistant
+Re-ran all versions. Thundering On first appears at v4b, a no-odds version (3rd fast/2nd soft), after her inputs were corrected; the 8/1 price only tipped me off to the error. Minnie Hauk left the top 7 on fast ground at v4b and on soft ground at v7 when 20/1 market prices were added. Added a rank tracker to PREDICTION_HISTORY.md. Pushed.
