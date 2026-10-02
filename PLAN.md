@@ -33,12 +33,13 @@
 - [x] Full audit of all 16 runners (AUDIT.md); v6 and v7 built
 - [x] Found Arrow Eagle / Chestnut Rocket / Bright Light 2026 form; jockeys added (v8, v9)
 - [x] v10: unknown jockeys neutral, --no-jockey switch
-- [ ] Confirm ALL jockeys from the final declarations, then set the Ballydoyle trio's JOCKEY scores (replace None) and rerun
+- [x] Ballydoyle jockeys confirmed; v11 built (2 Oct)
 - [ ] Find more Arrow Eagle 2026 runs
 - [x] Diamond Necklace's Oaks = Prix de Diane (French Oaks)
 - [ ] Re-check going: weather evidence conflicting; use official France Galop update Fri/Sat
 
-- [ ] 2 Oct 15:00 UTC (4pm UK): scheduled jockey-declaration check (trig_015cMdMaq1scoKkVRyEodTvj) builds v11
+- [x] 2 Oct 15:00 UTC jockey check done (v11)
+- [ ] Re-confirm going and refresh market prices Sat/Sun morning; update ODDS (current ones predate the jockey bookings); Betfair needs user screenshot
 
 - [ ] 1 Oct 21:30 UTC: Betfair price re-check (trig_01AndsB93dHaoRXSd8J9wr3b); Betfair URL is blocked, needs user screenshot
 

@@ -39,3 +39,6 @@ Kalpana (5yo mare; King George on good-to-firm, Yorkshire Oaks on soft), Maltese
 - Jockeys (search summaries): Daryz Barzalona; Maltese Cross Marquand; Kalpana Keane; Thundering On Boudot; Friendly Soul Doyle; Bay City Roller Murphy; Varandir Lecoeuvre; Saddadd R Dawson; Meisho Tabaru Take; Admire Terra Demuro; Bright Light Marie; Arrow Eagle Mendizabal; Chestnut Rocket Grandin. NOT YET ANNOUNCED: Minnie Hauk, Benvenuto Cellini, Diamond Necklace (Ryan Moore to choose among Ballydoyle trio; deadline 21:30 GMT). Saddadd's Baden win was ridden by a different jockey per one summary.
 
 - Correction (user): the Ballydoyle trio's jockeys are unknown, so v9's provisional 8 was an assumption. v10 uses the average of the known jockeys for them. All jockey bookings are provisional until final declarations.
+
+## 2 Oct 15:00 UTC jockey check
+Confirmed (search summaries, Racing Post/AOL/Irish Examiner): Cellini - R Moore; Diamond Necklace - C Soumillon; Minnie Hauk - W Buick. Other 13 unchanged. Summary error noted: Minnie Hauk 'starts from eight' (official draw: 10). Going Fri 2 Oct: penetrometer 3.5 souple; dry forecast.

@@ -99,3 +99,15 @@ Effect of jockeys: small. Thundering On (Boudot, an Arc winner) edges ahead of K
 | 6 | Varandir 6.51 | Varandir 6.51 | Varandir 6.61 | Friendly Soul 6.68 |
 | 7 | Diamond Necklace 6.49 | Friendly Soul 6.46 | Diamond Necklace 6.41 | Varandir 6.51 |
 Effect: removing the assumed 8s for the Ballydoyle trio costs Diamond Necklace and Cellini a little; Friendly Soul edges back into the top 7 on fast ground. Thundering On vs Kalpana is a 0.05 coin-flip once jockeys are removed.
+
+## v11: Ballydoyle jockeys confirmed (2 Oct 15:00 UTC routine)
+| Pos | v10 fast | v11 fast | v11 fast, no jockey | v10 soft | v11 soft |
+|---|---|---|---|---|---|
+| 1 | Daryz 9.73 | Daryz 9.73 | Daryz 9.67 | Daryz 9.73 | Daryz 9.73 |
+| 2 | Thundering On 7.98 | Thundering On 7.98 | Kalpana 7.97 | Thundering On 7.98 | Thundering On 7.98 |
+| 3 | Kalpana 7.95 | Kalpana 7.95 | Thundering On 7.92 | Kalpana 7.73 | Kalpana 7.73 |
+| 4 | Maltese Cross 7.46 | Maltese Cross 7.46 | Maltese Cross 7.39 | Benvenuto Cellini 7.18 | Benvenuto Cellini 7.35 |
+| 5 | Benvenuto Cellini 7.18 | Benvenuto Cellini 7.35 | Benvenuto Cellini 7.20 | Maltese Cross 7.13 | Maltese Cross 7.13 |
+| 6 | Varandir 6.51 | Varandir 6.51 | Varandir 6.63 | Friendly Soul 6.68 | Friendly Soul 6.68 |
+| 7 | Friendly Soul 6.46 | Diamond Necklace 6.49 | Diamond Necklace 6.43 | Varandir 6.51 | Varandir 6.51 |
+Effect: Moore on Cellini lifts him a little; Soumillon puts Diamond Necklace back to 7th on fast ground only. With Racing Post/Coral's post-jockey 14/1s for DN and Cellini, Friendly Soul retakes 7th on fast ground.

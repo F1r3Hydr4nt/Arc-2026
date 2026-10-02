@@ -149,3 +149,9 @@ One-shot routine trig_015cMdMaq1scoKkVRyEodTvj fires 2026-10-02 15:00 UTC (= 4pm
 ## Betfair re-check 21:30 UTC 1 Oct 2026 (scheduled routine fired)
 - betfair.com still blocked; searches returned NO Betfair Exchange prices. Post-draw bookmaker moves in the press agree with the Paddy Power card already used in v5-v10 (Daryz 7/4; Kalpana cut from 7/1 to 5/1; Maltese Cross 5/1 with some firms, as short as 7/2 elsewhere; Thundering On 8/1; Diamond Necklace drifted from 7/1 to 10/1 after stall 16). No model change; no new version.
 - Still need: user-pasted Betfair back prices (screenshot) when the market is open.
+
+## 2 Oct 2026 15:00 UTC: jockey declarations check (scheduled routine fired)
+Confirmed Ballydoyle rides: Benvenuto Cellini - Ryan Moore (picked after the draw; Moore left Diamond Necklace), Diamond Necklace - Christophe Soumillon, Minnie Hauk - William Buick. Others unchanged (13 earlier bookings; no change reports). Markets after draw/jockeys: Cellini 25/1 -> 14/1 (biggest mover), Diamond Necklace 8/1 -> 14/1 (Coral), Minnie Hauk 20/1.
+Going: penetrometer 3.5 'souple' (~good to soft) Fri 2 Oct; dry forecast so good, maybe good to firm Sunday (search summaries).
+v11 (root script) top 7 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace. Soft: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir. With post-jockey 14/1 prices for DN/Cellini: fast 7th becomes Friendly Soul.
+Betfair prices still unavailable (blocked).

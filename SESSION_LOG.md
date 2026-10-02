@@ -175,3 +175,8 @@ Tried to fetch it: blocked by the egress proxy (betfair.com), so no prices read.
 ## (Scheduled routine, 21:30 UTC) Betfair prices check
 ## Assistant
 Searched for post-draw Betfair Exchange prices: none found (betfair.com blocked). Press reports of post-draw bookmaker moves match the Paddy Power prices already in v5-v10. No model change. Notified the user to paste a Betfair screenshot if they want exchange prices used.
+
+---
+## (Scheduled routine, 2 Oct 15:00 UTC) Arc jockey declarations check
+## Assistant
+Found the Ballydoyle jockeys: Cellini - Ryan Moore, Diamond Necklace - Christophe Soumillon, Minnie Hauk - William Buick; other bookings unchanged. Built versions/v11 (Moore 9, Soumillon 8, Buick 8) and copied to the root script. v11 fast: Daryz, Thundering On, Kalpana, Maltese Cross, Benvenuto Cellini, Varandir, Diamond Necklace; soft: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Friendly Soul, Varandir. Going Fri: penetrometer 3.5, dry forecast. Pushed and notified.
