@@ -186,3 +186,9 @@ Found the Ballydoyle jockeys: Cellini - Ryan Moore, Diamond Necklace - Christoph
 Correct me if I'm wrong but Joseph O'Brien's Thundering On did not feature in the predicted first 7 home until we took bookmaker odds into account, also Minnie Hauk has left those rankings now
 ## Assistant
 Re-ran all versions. Thundering On first appears at v4b, a no-odds version (3rd fast/2nd soft), after her inputs were corrected; the 8/1 price only tipped me off to the error. Minnie Hauk left the top 7 on fast ground at v4b and on soft ground at v7 when 20/1 market prices were added. Added a rank tracker to PREDICTION_HISTORY.md. Pushed.
+
+---
+## User
+Ok so this is the final prediction or have you taken everything into account, list all the stats you are basing the results off and their weights
+## Assistant
+Read the live script and listed every input and weight: form 34%, distance 17%, ground 11%, trainer 9%, jockey 9%, market 20%, plus flat adjustments (5yo+ -0.4, Daryz defending colt -0.3, 3yo filly +0.2, Japanese no-prep -0.5, draw +0.8/+0.5/-0.2/-0.7). Said it is not final: going unconfirmed, market prices stale/bookmaker-only, scores are judgement-based and unfitted, and many factors (pace, speed figures, head-to-head lines, weights carried, race fitness) are not modelled. Pushed.
