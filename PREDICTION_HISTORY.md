@@ -127,3 +127,15 @@ Official draw applied from v4 on; v1-v3 had no draw. Fast / soft ground. v1 had 
 | v8 | no | 2nd / 2nd | 8th / 7th |
 | v9-v11 | yes | 2nd / 2nd | 9th / 9th |
 Reading: Thundering On entered the top 7 at v4b, a no-odds version, because her inputs were corrected (3yo Oaks-winning filly, form 8.5), not because of the market weight. The 8/1 price on the Paddy Power screenshot is what tipped me off that I had mis-modelled her. Minnie Hauk left the top 7 on fast ground at v4b (pushed down by Thundering On's correction and by Varandir's stall 4) and on soft ground once the market (20/1) was added in v7+. Her own score never changed after v3.
+
+## v12: ratings + head-to-heads (2 Oct)
+| Pos | v11 fast | v12 fast | v12 soft |
+|---|---|---|---|
+| 1 | Daryz 9.73 | Daryz 9.70 | Daryz 9.70 |
+| 2 | Thundering On 7.98 | Thundering On 7.94 | Thundering On 7.94 |
+| 3 | Kalpana 7.95 | Kalpana 7.87 | Kalpana 7.67 |
+| 4 | Maltese Cross 7.46 | Benvenuto Cellini 7.12 | Benvenuto Cellini 7.12 |
+| 5 | Benvenuto Cellini 7.35 | Maltese Cross 7.00 | Maltese Cross 6.70 |
+| 6 | Varandir 6.51 | Varandir 6.56 | Varandir 6.56 |
+| 7 | Diamond Necklace 6.49 | Diamond Necklace 6.30 | Friendly Soul 6.44 |
+Effect: Maltese Cross and Cellini swap on fast ground (his Timeform 124p equals Maltese Cross's rating, and stall 1 vs 11 counts); Minnie Hauk stays 8th. Her missing rating is the main uncertainty (130 would put her 7th).

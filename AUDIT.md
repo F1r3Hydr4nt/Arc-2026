@@ -42,3 +42,7 @@ Kalpana (5yo mare; King George on good-to-firm, Yorkshire Oaks on soft), Maltese
 
 ## 2 Oct 15:00 UTC jockey check
 Confirmed (search summaries, Racing Post/AOL/Irish Examiner): Cellini - R Moore; Diamond Necklace - C Soumillon; Minnie Hauk - W Buick. Other 13 unchanged. Summary error noted: Minnie Hauk 'starts from eight' (official draw: 10). Going Fri 2 Oct: penetrometer 3.5 souple; dry forecast.
+
+## 2 Oct: ratings and head-to-head check (user)
+- Confirmed: 2026 Prince of Wales's, Ombudsman won by 4L, Minnie Hauk 2nd (8/1), Daryz 3rd (1.75L behind her). Daryz's excuses: virus, disturbed travel. Not in v1-v11; added as H2H in v12.
+- Ratings found for 13/16 horses (see versions/v12/PREDICTION.md); missing for Minnie Hauk, Friendly Soul, Admire Terra. Sources mix RPR, Timeform, IFHA; Kalpana's 125 is likely understated; Meisho Tabaru's racecard 'RPR 112' looked inconsistent and was not used.

@@ -43,5 +43,8 @@
 
 - [ ] 1 Oct 21:30 UTC: Betfair price re-check (trig_01AndsB93dHaoRXSd8J9wr3b); Betfair URL is blocked, needs user screenshot
 
+- [x] v12: ratings + head-to-heads
+- [ ] Find ratings for Minnie Hauk, Friendly Soul, Admire Terra; Kalpana's King George figure; any speed figures/sectionals
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

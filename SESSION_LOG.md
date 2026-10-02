@@ -192,3 +192,9 @@ Re-ran all versions. Thundering On first appears at v4b, a no-odds version (3rd 
 Ok so this is the final prediction or have you taken everything into account, list all the stats you are basing the results off and their weights
 ## Assistant
 Read the live script and listed every input and weight: form 34%, distance 17%, ground 11%, trainer 9%, jockey 9%, market 20%, plus flat adjustments (5yo+ -0.4, Daryz defending colt -0.3, 3yo filly +0.2, Japanese no-prep -0.5, draw +0.8/+0.5/-0.2/-0.7). Said it is not final: going unconfirmed, market prices stale/bookmaker-only, scores are judgement-based and unfitted, and many factors (pace, speed figures, head-to-head lines, weights carried, race fitness) are not modelled. Pushed.
+
+---
+## User
+Model with speed and time form ratings, also Minnie Hauk beat Daryz earlier this year at Ascot if I'm not mistaken
+## Assistant
+Confirmed: Prince of Wales's 2026, Ombudsman won by 4L, Minnie Hauk 2nd, Daryz 3rd about 1.75L behind her (Daryz had excuses). Searched for ratings: found figures for 13/16 (RPR/Timeform/IFHA mixed), none for Minnie Hauk, Friendly Soul, Admire Terra (field average used). Built v12 with a 17% rating factor and +0.2 per 2026 G1 head-to-head win. v12 fast: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Varandir, Diamond Necklace. Minnie Hauk 8th; 130 rating would make her 7th. True speed figures not found. Pushed.

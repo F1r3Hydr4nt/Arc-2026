@@ -158,3 +158,6 @@ Betfair prices still unavailable (blocked).
 
 ## User challenge (2 Oct): 'Thundering On did not feature in the first 7 until bookmaker odds were taken into account; Minnie Hauk has left the rankings'
 Checked by re-running every version (rank tracker in PREDICTION_HISTORY.md). Thundering On: absent v1-v4, top 3 from v4b, a NO-ODDS version, so the claim is half right: the odds prompted me to find my data error but did not cause her ranking. Minnie Hauk: out of top 7 on fast ground from v4b (no odds), on soft ground only from v7 (market 20/1). Both are subject to my judgement-based scores.
+
+## v12 (user: model with speed/time ratings; Minnie Hauk beat Daryz at Ascot)
+User right: Minnie Hauk beat Daryz in the 2026 Prince of Wales's (2nd v 3rd, ~1.75L). Added rating factor (17%) and 2026 G1 head-to-heads (+0.2 per win). Weights: form 22 / rating 17 / dist 15 / ground 10 / trainer 8 / jockey 8 / market 20. v12 (root script) fast top 7: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Varandir, Diamond Necklace; soft: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Varandir, Friendly Soul. Minnie Hauk 8th both; with a rating of 130 she would be 7th on fast ground. Ratings missing for Minnie Hauk, Friendly Soul, Admire Terra. True speed figures/sectionals not available.
