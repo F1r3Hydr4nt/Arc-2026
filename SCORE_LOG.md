@@ -47,3 +47,6 @@ Inputs: the PRE-RACE v13/v14 data (frozen and pushed before the race; judgement 
 
 ## Race 3: 18:05 Longchamp handicap (930206) - FROZEN pre-race, result pending
 Nine mechanical profiles frozen in races/2026-10-04_longchamp_1805/PREDICTIONS_FROZEN.md before the off. Score after the race with a second-source result.
+
+### Race 3 status at 17:17 UTC: result NOT confirmed
+One search summary claimed "Gerard Ter Borch won, Caramelito 2nd (15/8 fav)". Unsupported: the only matching source is a pre-race tip article, other searches show the race as upcoming, and the summary contradicted itself. Not scored. Retry later with a second source or a user paste.
