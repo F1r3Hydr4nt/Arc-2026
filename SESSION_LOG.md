@@ -267,3 +267,9 @@ Saved the 5yo+ penalty memory (hunch, test out-of-sample) and the learn-properly
 
 ## Assistant (steps 2-3)
 Tried the Forêt: the first searches leaked the result and racing sites are blocked, so pre-race inputs for all eight runners could not be gathered; a valid test was not possible and I said so. Recorded the Forêt facts (with conflicts) in SCORE_LOG.md, and instead scored simplified profiles and baselines on the Arc using frozen pre-race data (learning/score_profiles.py). Findings (n=1): simple profiles beat the full model; the draw rule hurt; the age/trend adjustments made no difference; hypotheses ledger started. No model change. Pushed.
+
+---
+## User
+[Racing Post racecard link, Longchamp 4 Oct 2026, race id 930206]
+## Assistant
+Could not open it (racingpost.com blocked) and could not identify the race from the id; all Longchamp races that day have already been run, so it cannot be a blind test. Proposed a mechanical-profile scorer for pasted cards (market, form figures, rating only) and asked the user to paste the card text and name the race. Logged and pushed.
