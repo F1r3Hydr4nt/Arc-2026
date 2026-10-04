@@ -216,3 +216,5 @@ The model applies -0.4 to any runner aged 5+ (based on 'only nine 5yo Arc winner
 
 ## User sent Racing Post card link (race id 930206, Longchamp 4 Oct 2026)
 WebFetch BLOCKED (racingpost.com). Search could not identify id 930206 (known ids: Arc 921493, Abbaye 929956, Opera 929957, Foret 929958; other races that day: Marcel Boussac 11:31 UK, Jean-Luc Lagardere). All Longchamp races that day (last: Foret 16:25 UK) were already run, so any card from that meeting is post-race and cannot be a blind test. Idea logged: build a MECHANICAL profile scorer (market-only, form-figures-only, rating-only, simple composite) that works on any pasted racecard + known result without my judgement, so past races can be scored without leakage of judgement. Awaiting user: paste the card text (and say which race).
+
+- 2026-10-04 16:50 UTC: froze mechanical-profile predictions for 18:05 Longchamp handicap (races/2026-10-04_longchamp_1805/). Next: score after race (cmd: python3 learning/mechanical_profiles.py <card.py> "1st,2nd,3rd,4th"), update SCORE_LOG hypotheses.

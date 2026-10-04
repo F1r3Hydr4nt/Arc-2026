@@ -44,3 +44,6 @@ Inputs: the PRE-RACE v13/v14 data (frozen and pushed before the race; judgement 
 | H4: jockey and trainer scores add value | Arc: removing them changed little | untested |
 | H5: ground and form are the strongest inputs | Arc: ground +0.71, form +0.69 | consistent so far (n=1) |
 | H6: mixed rating scales hurt | Arc: rating-only weak | fix the scale before testing |
+
+## Race 3: 18:05 Longchamp handicap (930206) - FROZEN pre-race, result pending
+Nine mechanical profiles frozen in races/2026-10-04_longchamp_1805/PREDICTIONS_FROZEN.md before the off. Score after the race with a second-source result.

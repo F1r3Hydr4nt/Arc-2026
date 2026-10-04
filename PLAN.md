@@ -60,3 +60,5 @@ Update MEMORY.md and PLAN.md and push to this repo after every change.
 - [ ] Clarify target: the user's '3.50' race has been run (True Love won per user; likely the Prix de la Foret). Ask what they want next (post-race backtest, or a different race)
 - [ ] Fix known weaknesses before reuse: ground ratings not to rely on trainer comments (Bay City Roller), softer stall-16 penalty, include more places evidence
 - [x] Arc result recorded and models scored (RESULT_arc_2026.md)
+
+- [ ] Score 18:05 Longchamp handicap frozen predictions after the race (second-source result).

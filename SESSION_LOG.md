@@ -273,3 +273,6 @@ Tried the Forêt: the first searches leaked the result and racing sites are bloc
 [Racing Post racecard link, Longchamp 4 Oct 2026, race id 930206]
 ## Assistant
 Could not open it (racingpost.com blocked) and could not identify the race from the id; all Longchamp races that day have already been run, so it cannot be a blind test. Proposed a mechanical-profile scorer for pasted cards (market, form figures, rating only) and asked the user to paste the card text and name the race. Logged and pushed.
+
+## Exchange: user pasted racecard 930206
+Built races/2026-10-04_longchamp_1805/card.py + learning/mechanical_profiles.py; froze nine judgement-free profile predictions before 17:05 UTC. Result scoring pending.
