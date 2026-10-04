@@ -204,3 +204,9 @@ Confirmed: Prince of Wales's 2026, Ombudsman won by 4L, Minnie Hauk 2nd, Daryz 3
 Could you go gather jockeys and weather
 ## Assistant
 Race-day check (4 Oct, 10:58 UTC): jockeys unchanged and confirmed (Moore/Cellini, Buick/Minnie Hauk, Soumillon/Diamond Necklace, Boudot/Thundering On; a summary listing 'A.P. O'Brien' as jockey was a trainer-column mix-up). Bay City Roller runs. Going bon souple (~good), Turftrax good to good-to-firm, 0.1mm overnight, sunny ~24-25C, so the fast scenario applies. No input changes, no new version. Prediction v12 fast unchanged. Prices in the model are stale. Pushed.
+
+---
+## User
+Refresh the prices and recheck jockeys and conditions rerun before the race
+## Assistant
+Re-checked at ~11:45 UTC: jockeys unchanged, no non-runners reported, official going GOOD (a bit of give), dry. Refreshed prices from Oddschecker/Racing Post summaries (mixed bookmakers; five outsiders not refreshed). Built v13 with a 'good' going setting (midpoint of fast/soft). v13 good: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Maltese Cross, Varandir, Minnie Hauk. Pushed.

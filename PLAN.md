@@ -40,7 +40,8 @@
 
 - [x] 2 Oct 15:00 UTC jockey check done (v11)
 - [x] Race-day going and jockeys checked (4 Oct 10:58 UTC): bon souple, dry, fast scenario; jockeys unchanged
-- [ ] Refresh market prices race morning if wanted (current ODDS are Thursday 20:05 Paddy Power)
+- [x] Race-morning prices refreshed (v13)
+- [ ] After the race: record result in MEMORY.md and score the model (all versions)
 
 - [ ] 1 Oct 21:30 UTC: Betfair price re-check (trig_01AndsB93dHaoRXSd8J9wr3b); Betfair URL is blocked, needs user screenshot
 

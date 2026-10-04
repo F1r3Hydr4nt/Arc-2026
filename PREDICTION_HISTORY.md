@@ -139,3 +139,15 @@ Reading: Thundering On entered the top 7 at v4b, a no-odds version, because her 
 | 6 | Varandir 6.51 | Varandir 6.56 | Varandir 6.56 |
 | 7 | Diamond Necklace 6.49 | Diamond Necklace 6.30 | Friendly Soul 6.44 |
 Effect: Maltese Cross and Cellini swap on fast ground (his Timeform 124p equals Maltese Cross's rating, and stall 1 vs 11 counts); Minnie Hauk stays 8th. Her missing rating is the main uncertainty (130 would put her 7th).
+
+## v13: race-day refresh (4 Oct 11:45 UTC), going GOOD
+| Pos | v12 fast | v13 fast | v13 good | v13 soft |
+|---|---|---|---|---|
+| 1 | Daryz 9.70 | Daryz 9.70 | Daryz 9.70 | Daryz 9.70 |
+| 2 | Thundering On 7.94 | Kalpana 8.05 | Kalpana 7.95 | Thundering On 7.94 |
+| 3 | Kalpana 7.87 | Thundering On 7.94 | Thundering On 7.94 | Kalpana 7.85 |
+| 4 | Benvenuto Cellini 7.12 | Benvenuto Cellini 7.02 | Benvenuto Cellini 7.02 | Benvenuto Cellini 7.02 |
+| 5 | Maltese Cross 7.00 | Maltese Cross 6.77 | Maltese Cross 6.62 | Varandir 6.56 |
+| 6 | Varandir 6.56 | Varandir 6.56 | Varandir 6.56 | Maltese Cross 6.47 |
+| 7 | Diamond Necklace 6.30 | Minnie Hauk 6.35 | Minnie Hauk 6.35 | Minnie Hauk 6.35 |
+Changes: Kalpana's shortening to 4/1 takes her back above Thundering On on fast/good ground; Minnie Hauk returns to 7th on all three (16/1 from 20/1); Diamond Necklace (14/1, stall 16) drops to 8th-9th.
