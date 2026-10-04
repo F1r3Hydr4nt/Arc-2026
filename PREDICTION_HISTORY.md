@@ -175,3 +175,6 @@ Without prices: Thundering On ranks 2nd on every going (Kalpana's shortening to 
 | 6 | Varandir 6.56 | Minnie Hauk 7.53 | Varandir 6.40 | Varandir 6.40 | Minnie Hauk 6.35 |
 | 7 | Minnie Hauk 6.35 | Maltese Cross 7.46 | Minnie Hauk 6.35 | Minnie Hauk 6.35 | Friendly Soul 6.34 |
 Betting-without prices make almost no difference versus v13: the converted win-equivalent prices are only a little longer, Cellini still holds 4th on his stall 1, Moore and rating 124p despite a 9/1 BW (about 22/1 win-equivalent) price.
+
+## v16 (post-race, in-sample): lessons applied. See LESSONS.md
+v16 good: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Minnie Hauk, Diamond Necklace, Maltese Cross. Average model rank of the actual 1st-7th improved only from 6.3 (v14) to 6.1; still 4/7 in top 7. Built after the result, so not a real prediction.

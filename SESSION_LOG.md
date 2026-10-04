@@ -252,3 +252,9 @@ Recorded the Arc result (Daryz won; 2nd Bay City Roller, 3rd Diamond Necklace, 4
 We Are did not win True Love did
 ## Assistant
 Accepted the correction (my 'We Are' came from an unreliable search summary). Re-searched: True Love (A. O'Brien) won the Prix de la Foret; a summary says Miss Scott won the Opera; source times for the two races conflict, so the user's 3.50 may be the Foret. Also re-checked the Arc result: 1 Daryz, 2 Bay City Roller, 3 Diamond Necklace, 4 Friendly Soul, 5 Kalpana, 6 Maltese Cross, 7 Varandir, 8 Thundering On. Rebuilt the scorecard. Asked what the user wants to do next. Pushed.
+
+---
+## User
+Can't you learn now from recurring misses?
+## Assistant
+Yes, but carefully: computed which inputs predicted the Arc finish (form, ground, market best; draw ~0; my composite was diluted by extras), fixed three errors visible pre-race (Bay City Roller's ground rating contradicted by his Foy run, mixed rating scales for Thundering On, over-strong draw rule) as v16, wrote LESSONS.md. In-sample gain was marginal (avg rank 6.3 -> 6.1); did not retune weights on one race; set out how to learn properly across races. Pushed.

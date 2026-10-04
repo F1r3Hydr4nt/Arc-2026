@@ -53,7 +53,9 @@
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.
 
-## New phase (4 Oct): retarget (awaiting user's choice)
+## New phase (4 Oct): learning + retarget (awaiting user's choice)
+- [x] Learn from Arc misses: LESSONS.md and v16 (in-sample)
+- [ ] Out-of-sample test: freeze v16 before the next race and score it afterwards; test dropping noisy extras and re-weighting on multiple races
 - [ ] Clarify target: the user's '3.50' race has been run (True Love won per user; likely the Prix de la Foret). Ask what they want next (post-race backtest, or a different race)
 - [ ] Fix known weaknesses before reuse: ground ratings not to rely on trainer comments (Bay City Roller), softer stall-16 penalty, include more places evidence
 - [x] Arc result recorded and models scored (RESULT_arc_2026.md)
