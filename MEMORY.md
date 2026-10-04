@@ -196,3 +196,15 @@ Answer given (not a model change, not betting advice; model is uncalibrated, sco
 
 ## LEARNING FROM THE ARC (user: 'Can't you learn now from recurring misses?')
 Diagnostics (LESSONS.md): form +0.69, ground +0.71, market +0.65 predicted best; my composite +0.53 was diluted by ratings/jockey/trainer/trend/draw extras; draw rule -0.07 (stalls 15 and 16 finished 2nd and 3rd). Built v16 (odds-free v14 + 3 principled fixes: Bay City Roller fast 5->7 and form 7.5; Thundering On rating on Timeform 124; draw adjustment halved). Only marginal in-sample gain (avg rank 6.3 -> 6.1); Bay City Roller still 10th. Deliberately NOT retuned weights or other penalties on n=1. Root script is v16.
+
+## MEMORY: the 5yo+ age penalty (user asked to save this, 4 Oct 2026)
+The model applies -0.4 to any runner aged 5+ (based on 'only nine 5yo Arc winners ever'). Evidence from the 2026 Arc: Kalpana (5yo) finished 5th and Friendly Soul (5yo) 4th, both inside the places, so the penalty may be too harsh or just not predictive. This is a HUNCH from one race. Do NOT change it from one result; test it out-of-sample (several races) by comparing the model with and without the age/sex/trend adjustments. The 'defending colt' -0.3 on Daryz (who won) and the Japanese no-prep -0.5 (Meisho Tabaru and Admire Terra were far back) belong in the same test.
+
+## MEMORY: PLAN TO LEARN PROPERLY (saved 4 Oct 2026; also in LEARNING_PLAN.md)
+1. FREEZE before the race: write predictions for several model 'profiles', commit and push BEFORE looking at the result (commit timestamps are the proof). Never edit a frozen file afterwards.
+2. SCORE after: winner, how many of the actual top 3/top 4 were in my top 3/4, average rank of the actual placed horses, and compare against baselines (market-only, form-only, ground-only).
+3. ONE race is noise: keep a running log (SCORE_LOG.md) across races and only change a weight or rule when it is supported by several races AND a pre-race reason.
+4. CONFIRM results with two sources before logging them as fact.
+5. USE consistent inputs: one rating scale, ground ratings from the horse's own runs (not trainer comments), draw effects race-specific.
+6. KEEP the data honest: label judgement scores as judgement; record what was unknown; note any leakage (e.g. when I already know the winner).
+7. TEST candidate simplifications on every race: drop trend/age adjustments, drop draw, drop jockey/trainer, re-weight form and ground.

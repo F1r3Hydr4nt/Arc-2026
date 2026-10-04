@@ -258,3 +258,9 @@ Accepted the correction (my 'We Are' came from an unreliable search summary). Re
 Can't you learn now from recurring misses?
 ## Assistant
 Yes, but carefully: computed which inputs predicted the Arc finish (form, ground, market best; draw ~0; my composite was diluted by extras), fixed three errors visible pre-race (Bay City Roller's ground rating contradicted by his Foy run, mixed rating scales for Thundering On, over-strong draw rule) as v16, wrote LESSONS.md. In-sample gain was marginal (avg rank 6.3 -> 6.1); did not retune weights on one race; set out how to learn properly across races. Pushed.
+
+---
+## User
+Save memory about the penalty, then save your plan to learn properly to memory too. Then test the framework on the Forêt, and learn properly from it
+## Assistant (step 1)
+Saved the 5yo+ penalty memory (hunch, test out-of-sample) and the learn-properly plan to MEMORY.md and LEARNING_PLAN.md. Forêt test follows.
