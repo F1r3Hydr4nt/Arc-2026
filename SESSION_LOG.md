@@ -276,3 +276,6 @@ Could not open it (racingpost.com blocked) and could not identify the race from 
 
 ## Exchange: user pasted racecard 930206
 Built races/2026-10-04_longchamp_1805/card.py + learning/mechanical_profiles.py; froze nine judgement-free profile predictions before 17:05 UTC. Result scoring pending.
+
+## Exchange: user pasted result page for 930206
+Scored frozen profiles: Vanta, Big Log, Gerard Ter Borch, Dioptase. Low-stall profile hit winner. Earlier search-summary result was wrong; corrected. Details in SCORE_LOG.md.

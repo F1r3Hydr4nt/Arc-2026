@@ -50,3 +50,22 @@ Nine mechanical profiles frozen in races/2026-10-04_longchamp_1805/PREDICTIONS_F
 
 ### Race 3 status at 17:17 UTC: result NOT confirmed
 One search summary claimed "Gerard Ter Borch won, Caramelito 2nd (15/8 fav)". Unsupported: the only matching source is a pre-race tip article, other searches show the race as upcoming, and the summary contradicted itself. Not scored. Retry later with a second source or a user paste.
+
+## Race 3 RESULT: 18:05 Longchamp handicap (930206), scored
+Source: Racing Post full result page pasted by user (frozen predictions committed 16:50 UTC, before the 17:05 UTC off). 18 ran, good ground, 2m 2.52s.
+Result: 1 Vanta (64/1, stall 1), 2 Big Log (42/10, stall 2), 3 Gerard Ter Borch (84/10, stall 16), 4 Dioptase (29/1, stall 8). Favourite Silent Warning (27/10) finished 8th.
+CORRECTION: an earlier search summary claimed "Gerard Ter Borch won, Caramelito 2nd". It was wrong. Search summaries stay unreliable; paste/primary source wins.
+
+| Profile | Winner | Top3 overlap | Top4 overlap | Ranks of actual 1-4 |
+|---|---|---|---|---|
+| market only | no | 1/3 | 1/4 | 14, 6, 3, 11 |
+| RPR only | no | 0/3 | 2/4 | 4, 12, 9, 1 |
+| official rating only | no | 0/3 | 1/4 | 10, 12, 4, 6 |
+| recent form (last 3) | no | 0/3 | 0/4 | 8, 7, 6, 9 |
+| handicap edge (RPR-OR) | no | 0/3 | 0/4 | 10, 9, 12, 7 |
+| low stall only | YES | 2/3 | 2/4 | 1, 2, 16, 8 |
+| composite A | no | 0/3 | 1/4 | 11, 4, 5, 6 |
+| composite B (A + draw) | no | 1/3 | 1/4 | 5, 2, 10, 6 |
+| composite C (market+form) | no | 1/3 | 1/4 | 11, 6, 3, 10 |
+
+Reading (n=1, mostly noise): a 64/1 winner means nearly every profile misses; with 9 profiles at least one hitting is expected by chance. Low stall named Vanta and Big Log 1-2, but it also put stall-16 Gerard Ter Borch 16th. Market favourite 8th, market-only ranked the winner 14th. Not enough to change the draw rule, which tested negative on the Arc (-0.07). Ledger: H2 (draw) now 1 mixed data point, not confirmed either way; H3 (simple beats complex) 2 of 2 races where some simple profile beat the full model, but different simple profiles each time. Keep collecting before any retune.
