@@ -198,3 +198,9 @@ Read the live script and listed every input and weight: form 34%, distance 17%, 
 Model with speed and time form ratings, also Minnie Hauk beat Daryz earlier this year at Ascot if I'm not mistaken
 ## Assistant
 Confirmed: Prince of Wales's 2026, Ombudsman won by 4L, Minnie Hauk 2nd, Daryz 3rd about 1.75L behind her (Daryz had excuses). Searched for ratings: found figures for 13/16 (RPR/Timeform/IFHA mixed), none for Minnie Hauk, Friendly Soul, Admire Terra (field average used). Built v12 with a 17% rating factor and +0.2 per 2026 G1 head-to-head win. v12 fast: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Varandir, Diamond Necklace. Minnie Hauk 8th; 130 rating would make her 7th. True speed figures not found. Pushed.
+
+---
+## User
+Could you go gather jockeys and weather
+## Assistant
+Race-day check (4 Oct, 10:58 UTC): jockeys unchanged and confirmed (Moore/Cellini, Buick/Minnie Hauk, Soumillon/Diamond Necklace, Boudot/Thundering On; a summary listing 'A.P. O'Brien' as jockey was a trainer-column mix-up). Bay City Roller runs. Going bon souple (~good), Turftrax good to good-to-firm, 0.1mm overnight, sunny ~24-25C, so the fast scenario applies. No input changes, no new version. Prediction v12 fast unchanged. Prices in the model are stale. Pushed.

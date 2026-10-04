@@ -39,7 +39,8 @@
 - [ ] Re-check going: weather evidence conflicting; use official France Galop update Fri/Sat
 
 - [x] 2 Oct 15:00 UTC jockey check done (v11)
-- [ ] Re-confirm going and refresh market prices Sat/Sun morning; update ODDS (current ones predate the jockey bookings); Betfair needs user screenshot
+- [x] Race-day going and jockeys checked (4 Oct 10:58 UTC): bon souple, dry, fast scenario; jockeys unchanged
+- [ ] Refresh market prices race morning if wanted (current ODDS are Thursday 20:05 Paddy Power)
 
 - [ ] 1 Oct 21:30 UTC: Betfair price re-check (trig_01AndsB93dHaoRXSd8J9wr3b); Betfair URL is blocked, needs user screenshot
 

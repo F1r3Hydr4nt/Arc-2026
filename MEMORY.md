@@ -161,3 +161,10 @@ Checked by re-running every version (rank tracker in PREDICTION_HISTORY.md). Thu
 
 ## v12 (user: model with speed/time ratings; Minnie Hauk beat Daryz at Ascot)
 User right: Minnie Hauk beat Daryz in the 2026 Prince of Wales's (2nd v 3rd, ~1.75L). Added rating factor (17%) and 2026 G1 head-to-heads (+0.2 per win). Weights: form 22 / rating 17 / dist 15 / ground 10 / trainer 8 / jockey 8 / market 20. v12 (root script) fast top 7: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Varandir, Diamond Necklace; soft: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Varandir, Friendly Soul. Minnie Hauk 8th both; with a rating of 130 she would be 7th on fast ground. Ratings missing for Minnie Hauk, Friendly Soul, Admire Terra. True speed figures/sectionals not available.
+
+## RACE DAY (Sun 4 Oct 2026, checked 10:58 UTC; race 15:05 UK / 14:05 UTC)
+- Jockeys re-confirmed, no changes: Daryz Barzalona; Maltese Cross Marquand; Kalpana Keane; Thundering On Boudot (Dylan Browne McMonagle still injured); Benvenuto Cellini Ryan Moore; Minnie Hauk William Buick; Diamond Necklace Christophe Soumillon; Friendly Soul Doyle; Bay City Roller Murphy; Varandir Lecoeuvre; Saddadd R Dawson; Meisho Tabaru Take; Admire Terra Demuro; Bright Light Marie; Arrow Eagle Mendizabal; Chestnut Rocket Grandin. One summary listed 'A.P. O'Brien' as jockey on two horses: trainer column mix-up, disregarded (three other sources agree on Moore/Buick/Soumillon).
+- Bay City Roller is CONFIRMED to run (Scott had said he would not run on watered ground; ground is dry/quick but he stays in).
+- Official going: 'bon souple' (~good), Turftrax: mix of good and good to firm (GoingStick 8.2 per summary); only 0.1mm rain overnight; sunny intervals, high ~24-25C. => FAST scenario is the right one; soft is now very unlikely.
+- Correction to earlier note: race off 14:05 UTC (15:05 UK), not 13:05.
+- Prediction unchanged (v12, fast): Daryz, Thundering On, Kalpana, Benvenuto Cellini, Maltese Cross, Varandir, Diamond Necklace. Prices in the model (Paddy Power, Thursday 20:05) are stale; race-day prices not yet refreshed.
