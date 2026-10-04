@@ -234,3 +234,9 @@ Cross-checked the form figures against my inputs (consistent) and re-confirmed j
 I just pasted the odds for betting without;Betting Without Daryz and Kalpana, up to Cellini I think that 9/1 might be best price
 ## Assistant
 Used the pasted BW prices as following each horse, best prices MC 10/3, TO 7/2, Varandir 6/1, DN 13/2, Cellini 9/1 (user estimate), converted to win-equivalent prices and built v15 (v13 + these). Result nearly identical to v13: good top 7 Daryz, Kalpana, Thundering On, Cellini, Maltese Cross, Varandir, Minnie Hauk. Pushed.
+
+---
+## User
+Whats the best value punt? Backing the favourite?
+## Assistant
+Said Daryz is the best horse on my numbers but 7/4 is not value; the biggest disagreement between the odds-free model and the price is Thundering On (8/1); each-way/place angles Cellini 16/1, Minnie Hauk 16/1, Friendly Soul 33/1; market overrates Maltese Cross/Varandir/Diamond Necklace relative to the model. Caveats: model uncalibrated, scores are not probabilities, not betting advice. No model change. Logged and pushed.

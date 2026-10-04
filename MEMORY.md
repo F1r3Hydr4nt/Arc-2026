@@ -184,3 +184,6 @@ Form figures cross-checked and consistent with my inputs: Daryz 1-1131, Kalpana 
 
 ## v15 (user: pasted BW odds; Cellini best price 9/1)
 Built from the BW paste: best prices MC 10/3, TO 7/2, Varandir 6/1, DN 13/2, Cellini 9/1 (user estimate), converted to win-equivalent (x(1 - p_Daryz - p_Kalpana)): MC 8.9/1, TO 9.3/1, Varandir 15/1, DN 16.2/1, Cellini 21.9/1; others as v13. Result ~ v13: good top 7 Daryz, Kalpana, Thundering On, Cellini, Maltese Cross, Varandir, Minnie Hauk (fast same; soft Daryz, Thundering On, Kalpana, Cellini, Varandir, Minnie Hauk, Friendly Soul). Root script is v15. Odds-free alternative remains v14.
+
+## Value question (4 Oct, pre-race): 'Whats the best value punt? Backing the favourite?'
+Answer given (not a model change, not betting advice; model is uncalibrated, scores are not probabilities): Daryz is the model's top pick but 7/4 (implied ~36% before margin) is a fair-to-short price, not value; biggest model-vs-price disagreement is Thundering On (v14 2nd, RPR 132 second-highest, stall 3, 3yo filly allowance) at 8/1 (market ~4th). Place/each-way angles: Cellini 16/1 (v14 4th, stall 1, Moore), Minnie Hauk 16/1, Friendly Soul 33/1. Market likes Maltese Cross (7/1), Varandir (10/1), Diamond Necklace (14/1) more than the model does. EW terms seen: 1/5 odds, 3-4 places depending on firm.
