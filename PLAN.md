@@ -48,5 +48,7 @@
 - [x] v12: ratings + head-to-heads
 - [ ] Find ratings for Minnie Hauk, Friendly Soul, Admire Terra; Kalpana's King George figure; any speed figures/sectionals
 
+- [x] v14: odds-free race-morning model
+
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.

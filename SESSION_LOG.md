@@ -210,3 +210,9 @@ Race-day check (4 Oct, 10:58 UTC): jockeys unchanged and confirmed (Moore/Cellin
 Refresh the prices and recheck jockeys and conditions rerun before the race
 ## Assistant
 Re-checked at ~11:45 UTC: jockeys unchanged, no non-runners reported, official going GOOD (a bit of give), dry. Refreshed prices from Oddschecker/Racing Post summaries (mixed bookmakers; five outsiders not refreshed). Built v13 with a 'good' going setting (midpoint of fast/soft). v13 good: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Maltese Cross, Varandir, Minnie Hauk. Pushed.
+
+---
+## User
+Now make v14 without prices
+## Assistant
+Built v14: v13 with all bookmaker prices and the 20% market weight removed, remaining weights rescaled (form 27.5 / rating 21.25 / distance 18.75 / ground 12.5 / trainer 10 / jockey 10). Good-going top 7: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Friendly Soul, Minnie Hauk, Maltese Cross. Pushed.

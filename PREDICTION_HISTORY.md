@@ -151,3 +151,15 @@ Effect: Maltese Cross and Cellini swap on fast ground (his Timeform 124p equals 
 | 6 | Varandir 6.56 | Varandir 6.56 | Varandir 6.56 | Maltese Cross 6.47 |
 | 7 | Diamond Necklace 6.30 | Minnie Hauk 6.35 | Minnie Hauk 6.35 | Minnie Hauk 6.35 |
 Changes: Kalpana's shortening to 4/1 takes her back above Thundering On on fast/good ground; Minnie Hauk returns to 7th on all three (16/1 from 20/1); Diamond Necklace (14/1, stall 16) drops to 8th-9th.
+
+## v14: v13 without prices (4 Oct)
+| Pos | v13 good (with prices) | v14 good (no prices) | v14 fast | v14 soft |
+|---|---|---|---|---|
+| 1 | Daryz 9.70 | Daryz 9.57 | Daryz 9.57 | Daryz 9.57 |
+| 2 | Kalpana 7.95 | Thundering On 8.91 | Thundering On 8.91 | Thundering On 8.91 |
+| 3 | Thundering On 7.94 | Kalpana 8.44 | Kalpana 8.57 | Kalpana 8.32 |
+| 4 | Benvenuto Cellini 7.02 | Benvenuto Cellini 8.18 | Benvenuto Cellini 8.18 | Benvenuto Cellini 8.18 |
+| 5 | Maltese Cross 6.62 | Friendly Soul 7.58 | Maltese Cross 7.65 | Friendly Soul 7.70 |
+| 6 | Varandir 6.56 | Minnie Hauk 7.53 | Minnie Hauk 7.53 | Minnie Hauk 7.53 |
+| 7 | Minnie Hauk 6.35 | Maltese Cross 7.46 | Friendly Soul 7.45 | Varandir 7.45 |
+Without prices: Thundering On ranks 2nd on every going (Kalpana's shortening to 4/1 no longer lifts her); Friendly Soul (33/1) and Minnie Hauk climb; Maltese Cross (7/1, stall 11) falls to 5th-8th depending on ground; Varandir slips. Places 5-9 are within ~0.5 points.

@@ -172,3 +172,6 @@ User right: Minnie Hauk beat Daryz in the 2026 Prince of Wales's (2nd v 3rd, ~1.
 ## v13 race-day refresh (4 Oct ~11:45 UTC)
 Prices refreshed (Oddschecker/Racing Post via search; mixed): Daryz 7/4, Kalpana 4/1, Maltese Cross 7/1, Thundering On 8/1, Varandir 10/1, DN 14/1, Cellini 16/1 (conflicting: 10/1, 14s), Minnie Hauk 16/1, Saddadd/Meisho Tabaru/Friendly Soul 33/1; Bay City Roller, Admire Terra, Bright Light, Arrow Eagle, Chestnut Rocket NOT refreshed. Jockeys unchanged. Official going GOOD (jockeys: 'a bit of give'); dry. Added 'good' going = midpoint of fast and soft ground ratings.
 v13 'good' top 7: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Maltese Cross, Varandir, Minnie Hauk. Fast: same order but Maltese Cross 5th. Soft: Daryz, Thundering On, Kalpana, Cellini, Varandir, Maltese Cross, Minnie Hauk.
+
+## v14 (user: 'make v14 without prices') - odds-free, race-morning inputs
+Weights: form 27.5 / rating 21.25 / distance 18.75 / ground 12.5 / trainer 10 / jockey 10. Top 7 (good going): Daryz, Thundering On, Kalpana, Benvenuto Cellini, Friendly Soul, Minnie Hauk, Maltese Cross. Fast: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Minnie Hauk, Friendly Soul. Soft: Daryz, Thundering On, Kalpana, Cellini, Friendly Soul, Minnie Hauk, Varandir. Root script is now v14.
