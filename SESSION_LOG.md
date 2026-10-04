@@ -240,3 +240,9 @@ Used the pasted BW prices as following each horse, best prices MC 10/3, TO 7/2, 
 Whats the best value punt? Backing the favourite?
 ## Assistant
 Said Daryz is the best horse on my numbers but 7/4 is not value; the biggest disagreement between the odds-free model and the price is Thundering On (8/1); each-way/place angles Cellini 16/1, Minnie Hauk 16/1, Friendly Soul 33/1; market overrates Maltese Cross/Varandir/Diamond Necklace relative to the model. Caveats: model uncalibrated, scores are not probabilities, not betting advice. No model change. Logged and pushed.
+
+---
+## User
+You were correct with the winner so now z change target race to 3.50 longchamp
+## Assistant
+Recorded the Arc result (Daryz won; 2nd Bay City Roller, 3rd Diamond Necklace, 4th Friendly Soul, 5th Kalpana, 6th Maltese Cross) and scored every version (RESULT_arc_2026.md): winner right but only 3-5 of the six finishers in my top 7; Bay City Roller ranked 10th-13th was the big miss. Identified the 3.50 race as the Prix de l'Opera (15:50 UK) which was already off at 14:54 UTC (15:54 UK); a search summary says We Are won. Did not predict a finished race; asked whether to target the 16:25 UK Prix de la Foret instead. Pushed.

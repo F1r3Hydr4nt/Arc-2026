@@ -52,3 +52,8 @@
 
 ## Workflow rule
 Update MEMORY.md and PLAN.md and push to this repo after every change.
+
+## New phase (4 Oct): retarget (awaiting user's choice)
+- [ ] Clarify target: 15:50 UK Prix de l'Opera already run (We Are reportedly won, unverified); next is the 16:25 UK Prix de la Foret
+- [ ] Fix known weaknesses before reuse: ground ratings not to rely on trainer comments (Bay City Roller), softer stall-16 penalty, include more places evidence
+- [x] Arc result recorded and models scored (RESULT_arc_2026.md)
