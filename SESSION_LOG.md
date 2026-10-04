@@ -216,3 +216,9 @@ Re-checked at ~11:45 UTC: jockeys unchanged, no non-runners reported, official g
 Now make v14 without prices
 ## Assistant
 Built v14: v13 with all bookmaker prices and the 20% market weight removed, remaining weights rescaled (form 27.5 / rating 21.25 / distance 18.75 / ground 12.5 / trainer 10 / jockey 10). Good-going top 7: Daryz, Thundering On, Kalpana, Benvenuto Cellini, Friendly Soul, Minnie Hauk, Maltese Cross. Pushed.
+
+---
+## User
+Compare v13 and v14 side by side
+## Assistant
+Compared all 16 horses on good, fast and soft going (scores, ranks, changes) and saved versions/COMPARE_v13_v14.md. Same top four; Kalpana/Thundering On swap on good/fast; Daryz's lead falls from ~1.7 to 0.66 without prices; Friendly Soul and Minnie Hauk rise, Maltese Cross and Varandir fall. Pushed.

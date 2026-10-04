@@ -175,3 +175,6 @@ v13 'good' top 7: Daryz, Kalpana, Thundering On, Benvenuto Cellini, Maltese Cros
 
 ## v14 (user: 'make v14 without prices') - odds-free, race-morning inputs
 Weights: form 27.5 / rating 21.25 / distance 18.75 / ground 12.5 / trainer 10 / jockey 10. Top 7 (good going): Daryz, Thundering On, Kalpana, Benvenuto Cellini, Friendly Soul, Minnie Hauk, Maltese Cross. Fast: Daryz, Thundering On, Kalpana, Cellini, Maltese Cross, Minnie Hauk, Friendly Soul. Soft: Daryz, Thundering On, Kalpana, Cellini, Friendly Soul, Minnie Hauk, Varandir. Root script is now v14.
+
+## v13 vs v14 comparison saved: versions/COMPARE_v13_v14.md
+Same top 4 on every going (only Kalpana/Thundering On swap on good/fast); 6 of 7 top-7 overlap; Daryz's lead falls from ~1.7 to 0.66 without prices; Friendly Soul +2/3, Minnie Hauk +1, Maltese Cross -2, Varandir -2 when prices are removed.
