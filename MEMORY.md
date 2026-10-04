@@ -208,3 +208,8 @@ The model applies -0.4 to any runner aged 5+ (based on 'only nine 5yo Arc winner
 5. USE consistent inputs: one rating scale, ground ratings from the horse's own runs (not trainer comments), draw effects race-specific.
 6. KEEP the data honest: label judgement scores as judgement; record what was unknown; note any leakage (e.g. when I already know the winner).
 7. TEST candidate simplifications on every race: drop trend/age adjustments, drop draw, drop jockey/trainer, re-weight form and ground.
+
+## Forêt attempt and learning results (4 Oct 2026, ~17:00 UTC)
+- A valid Forêt test was NOT possible: the result was already known (user + leaking searches) and pre-race data for the 8 runners could not be gathered (sites blocked; searches thin). Facts recorded in SCORE_LOG.md (conflicting on 2nd/3rd: Nighttime vs Puerto Rico).
+- Instead scored simplified profiles on the Arc using frozen pre-race data (learning/score_profiles.py, SCORE_LOG.md). Findings (n=1): simple profiles (market, form, ground, form+distance+ground) beat the full model (avg rank ~5.4 vs 6.3); removing the draw rule helped most (Spearman +0.53 -> +0.65); removing the age/trend adjustments changed nothing (+0.54), so the 5yo penalty is still undecided; jockey/trainer removal changed little; winner says nothing (all profiles picked Daryz).
+- Hypotheses ledger H1-H6 in SCORE_LOG.md. No model change made (n=1). Next: pick a future race whose full racecard I can get before the off, freeze all profiles by commit, score after.

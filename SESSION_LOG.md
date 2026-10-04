@@ -264,3 +264,6 @@ Yes, but carefully: computed which inputs predicted the Arc finish (form, ground
 Save memory about the penalty, then save your plan to learn properly to memory too. Then test the framework on the Forêt, and learn properly from it
 ## Assistant (step 1)
 Saved the 5yo+ penalty memory (hunch, test out-of-sample) and the learn-properly plan to MEMORY.md and LEARNING_PLAN.md. Forêt test follows.
+
+## Assistant (steps 2-3)
+Tried the Forêt: the first searches leaked the result and racing sites are blocked, so pre-race inputs for all eight runners could not be gathered; a valid test was not possible and I said so. Recorded the Forêt facts (with conflicts) in SCORE_LOG.md, and instead scored simplified profiles and baselines on the Arc using frozen pre-race data (learning/score_profiles.py). Findings (n=1): simple profiles beat the full model; the draw rule hurt; the age/trend adjustments made no difference; hypotheses ledger started. No model change. Pushed.

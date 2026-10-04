@@ -6,3 +6,8 @@
 5. Consistent inputs: one rating scale, ground ratings from the horse's own runs, race-specific draw effects.
 6. Keep data honest: label judgements, record unknowns, note leakage.
 7. Test candidate simplifications on every race (no age/trend adjustments, no draw, no jockey/trainer, reweighted form/ground).
+
+## Status after the Forêt attempt (4 Oct 2026)
+- Step 1-2 (freeze, score) can only be done properly for a race whose result is unknown when I build the model AND whose inputs I can get for every runner. The Forêt failed both tests (result known, data thin), so no Forêt test was run.
+- Delivered instead: `learning/score_profiles.py` (re-scores simplified profiles and baselines against a known order) and SCORE_LOG.md with a hypotheses ledger. First entry: the Arc.
+- Next real test: pick a future race, paste in or fetch the full racecard BEFORE the off, freeze all profiles (market-only, form-only, ground-only, core, core+market, full, no-extras) by committing, then score and append to SCORE_LOG.md.
