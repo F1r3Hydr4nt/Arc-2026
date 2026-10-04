@@ -163,3 +163,15 @@ Changes: Kalpana's shortening to 4/1 takes her back above Thundering On on fast/
 | 6 | Varandir 6.56 | Minnie Hauk 7.53 | Minnie Hauk 7.53 | Minnie Hauk 7.53 |
 | 7 | Minnie Hauk 6.35 | Maltese Cross 7.46 | Friendly Soul 7.45 | Varandir 7.45 |
 Without prices: Thundering On ranks 2nd on every going (Kalpana's shortening to 4/1 no longer lifts her); Friendly Soul (33/1) and Minnie Hauk climb; Maltese Cross (7/1, stall 11) falls to 5th-8th depending on ground; Varandir slips. Places 5-9 are within ~0.5 points.
+
+## v15: betting-without prices (4 Oct)
+| Pos | v13 good | v14 good (no prices) | v15 good | v15 fast | v15 soft |
+|---|---|---|---|---|---|
+| 1 | Daryz 9.70 | Daryz 9.57 | Daryz 9.70 | Daryz 9.70 | Daryz 9.70 |
+| 2 | Kalpana 7.95 | Thundering On 8.91 | Kalpana 7.95 | Kalpana 8.05 | Thundering On 7.86 |
+| 3 | Thundering On 7.94 | Kalpana 8.44 | Thundering On 7.86 | Thundering On 7.86 | Kalpana 7.85 |
+| 4 | Benvenuto Cellini 7.02 | Benvenuto Cellini 8.18 | Benvenuto Cellini 6.94 | Benvenuto Cellini 6.94 | Benvenuto Cellini 6.94 |
+| 5 | Maltese Cross 6.62 | Friendly Soul 7.58 | Maltese Cross 6.48 | Maltese Cross 6.63 | Varandir 6.40 |
+| 6 | Varandir 6.56 | Minnie Hauk 7.53 | Varandir 6.40 | Varandir 6.40 | Minnie Hauk 6.35 |
+| 7 | Minnie Hauk 6.35 | Maltese Cross 7.46 | Minnie Hauk 6.35 | Minnie Hauk 6.35 | Friendly Soul 6.34 |
+Betting-without prices make almost no difference versus v13: the converted win-equivalent prices are only a little longer, Cellini still holds 4th on his stall 1, Moore and rating 124p despite a 9/1 BW (about 22/1 win-equivalent) price.

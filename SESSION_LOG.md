@@ -228,3 +228,9 @@ Compared all 16 horses on good, fast and soft going (scores, ranks, changes) and
 [Pasted 'Betting Without Daryz and Kalpana' market: stalls, jockeys, trainers, form figures and bookmaker prices for Daryz, Kalpana, Maltese Cross, Thundering On, Varandir, Diamond Necklace, Benvenuto Cellini]
 ## Assistant
 Cross-checked the form figures against my inputs (consistent) and re-confirmed jockeys. Prices are ambiguous (merged bookmaker columns; one block unassigned), so I did not feed them into the model. Reading them as following each horse, the market looks to rate Maltese Cross and Thundering On level, then Varandir and Diamond Necklace, with Cellini's price missing; v14 has Thundering On, Cellini, Maltese Cross, Varandir, Diamond Necklace. Offered v15 from this market or tidying after the Cellini price. Logged.
+
+---
+## User
+I just pasted the odds for betting without;Betting Without Daryz and Kalpana, up to Cellini I think that 9/1 might be best price
+## Assistant
+Used the pasted BW prices as following each horse, best prices MC 10/3, TO 7/2, Varandir 6/1, DN 13/2, Cellini 9/1 (user estimate), converted to win-equivalent prices and built v15 (v13 + these). Result nearly identical to v13: good top 7 Daryz, Kalpana, Thundering On, Cellini, Maltese Cross, Varandir, Minnie Hauk. Pushed.
