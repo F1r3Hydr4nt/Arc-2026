@@ -222,3 +222,9 @@ Built v14: v13 with all bookmaker prices and the 20% market weight removed, rema
 Compare v13 and v14 side by side
 ## Assistant
 Compared all 16 horses on good, fast and soft going (scores, ranks, changes) and saved versions/COMPARE_v13_v14.md. Same top four; Kalpana/Thundering On swap on good/fast; Daryz's lead falls from ~1.7 to 0.66 without prices; Friendly Soul and Minnie Hauk rise, Maltese Cross and Varandir fall. Pushed.
+
+---
+## User
+[Pasted 'Betting Without Daryz and Kalpana' market: stalls, jockeys, trainers, form figures and bookmaker prices for Daryz, Kalpana, Maltese Cross, Thundering On, Varandir, Diamond Necklace, Benvenuto Cellini]
+## Assistant
+Cross-checked the form figures against my inputs (consistent) and re-confirmed jockeys. Prices are ambiguous (merged bookmaker columns; one block unassigned), so I did not feed them into the model. Reading them as following each horse, the market looks to rate Maltese Cross and Thundering On level, then Varandir and Diamond Necklace, with Cellini's price missing; v14 has Thundering On, Cellini, Maltese Cross, Varandir, Diamond Necklace. Offered v15 from this market or tidying after the Cellini price. Logged.

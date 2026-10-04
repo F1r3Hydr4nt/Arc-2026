@@ -178,3 +178,6 @@ Weights: form 27.5 / rating 21.25 / distance 18.75 / ground 12.5 / trainer 10 / 
 
 ## v13 vs v14 comparison saved: versions/COMPARE_v13_v14.md
 Same top 4 on every going (only Kalpana/Thundering On swap on good/fast); 6 of 7 top-7 overlap; Daryz's lead falls from ~1.7 to 0.66 without prices; Friendly Soul +2/3, Minnie Hauk +1, Maltese Cross -2, Varandir -2 when prices are removed.
+
+## User paste (4 Oct): 'Betting Without Daryz and Kalpana' (EW 1/5, 3 places)
+Form figures cross-checked and consistent with my inputs: Daryz 1-1131, Kalpana 71-1211, Maltese Cross 1-11211, Thundering On 2-21141, Varandir 11141, Diamond Necklace 11-1112, Cellini 13-1135. Jockeys re-confirmed (Barzalona, Keane, Marquand, Boudot, Lecoeuvre, Soumillon, R L Moore). Prices ambiguous (bookmaker columns merged; one block unassigned): if prices follow each horse: Maltese Cross 10/3, 16/5, 10/3; Thundering On 10/3, 7/2; Varandir 6/1, 5/1; Diamond Necklace 6/1, 13/2; Cellini none (paste likely cut off). Not used in the model. Main disagreement with v14: Cellini (model 2nd of the five, market apparently last) and Maltese Cross (model 3rd, market joint-favourite). Awaiting user: build v15 from this market, or supply Cellini price.
