@@ -246,3 +246,9 @@ Said Daryz is the best horse on my numbers but 7/4 is not value; the biggest dis
 You were correct with the winner so now z change target race to 3.50 longchamp
 ## Assistant
 Recorded the Arc result (Daryz won; 2nd Bay City Roller, 3rd Diamond Necklace, 4th Friendly Soul, 5th Kalpana, 6th Maltese Cross) and scored every version (RESULT_arc_2026.md): winner right but only 3-5 of the six finishers in my top 7; Bay City Roller ranked 10th-13th was the big miss. Identified the 3.50 race as the Prix de l'Opera (15:50 UK) which was already off at 14:54 UTC (15:54 UK); a search summary says We Are won. Did not predict a finished race; asked whether to target the 16:25 UK Prix de la Foret instead. Pushed.
+
+---
+## User
+We Are did not win True Love did
+## Assistant
+Accepted the correction (my 'We Are' came from an unreliable search summary). Re-searched: True Love (A. O'Brien) won the Prix de la Foret; a summary says Miss Scott won the Opera; source times for the two races conflict, so the user's 3.50 may be the Foret. Also re-checked the Arc result: 1 Daryz, 2 Bay City Roller, 3 Diamond Necklace, 4 Friendly Soul, 5 Kalpana, 6 Maltese Cross, 7 Varandir, 8 Thundering On. Rebuilt the scorecard. Asked what the user wants to do next. Pushed.
